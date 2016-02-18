@@ -26,7 +26,7 @@ __Please do not list any confidential projects!__
 | Google Internal  | Google Open Source | Open Source    |
 | -------------|------------ |-------------|
 | GFS/Colossus| | HDFS |
-| BigTable     | [LevelDB](https://github.com/google/leveldb)  | HBase |
+| BigTable     |   | HBase |
 | [Spanner](http://research.google.com/archive/spanner.html)   | | [CockroachDB](https://github.com/cockroachdb/cockroach) |
 
 
