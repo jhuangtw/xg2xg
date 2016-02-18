@@ -35,7 +35,7 @@ __Please do not list any confidential projects!__
 | Google Internal  | Google Open Source | Open Source    |
 | -------------|------------ |-------------|
 | Dremel       |             | Apache Drill |
-| Mustang      |             | Lucene, Solr, Elasticsearch|
+| Search      |             | Lucene, Solr, Elasticsearch|
 
 ### DevOps
 | Google Internal  | Google Open Source | Real World    |
