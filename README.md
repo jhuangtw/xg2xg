@@ -20,12 +20,14 @@
 
 | Google Internal  | Google Open Source | Open Source    |
 | -------------|------------ |-------------|
+| GFS/Colossus| | HDFS |
 | BigTable     | [LevelDB](https://github.com/google/leveldb)  | HBase |
 | [Spanner](http://research.google.com/archive/spanner.html)   | | [CockroachDB](https://github.com/cockroachdb/cockroach) |
 
 
-### Tools
+### Services
 
 | Google Internal  | Google Open Source | Open Source    |
 | -------------|------------ |-------------|
 | Dremel       |             | Apache Drill |
+| Mustang      |             | Lucene, Solr, Elasticsearch|
