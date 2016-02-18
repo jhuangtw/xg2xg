@@ -1,3 +1,8 @@
+A handy lookup table of similar technology and services to help xooglers survive the outside world :)
+pull-requests welcomed. Only intended for well-known technology and services.
+
+__Please do not list any confidential projects!__
+
 ## Technology
 
 ### Core Tech
@@ -31,3 +36,15 @@
 | -------------|------------ |-------------|
 | Dremel       |             | Apache Drill |
 | Mustang      |             | Lucene, Solr, Elasticsearch|
+
+### DevOps
+| Google Internal  | Google Open Source | Real World    |
+| -------------|------------ |-------------|
+| Blaze        |  [Bazel] (http://bazel.io)          |  |
+| Oncall       |             | [PagerDuty](https://pagerduty.com) |
+
+
+## Operational
+| Google Internal  |   Real World  |
+| -------------    | ------------- |
+| free food        |   :(          |
