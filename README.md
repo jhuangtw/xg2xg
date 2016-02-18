@@ -5,7 +5,7 @@ __Please do not list any confidential projects!__
 
 ## Technology
 
-### Core Tech
+### Core Technology
 
 | Google Internal   | Google Open Source   |  Open Source  |
 | -------------     |  -------------       |-------------  |
