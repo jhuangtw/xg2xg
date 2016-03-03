@@ -34,7 +34,7 @@ __Please do not list any confidential projects!__
 
 | Google Internal  | Google Open Source | Open Source    |
 | -------------|------------ |-------------|
-| Dremel       |             | Apache Drill |
+| Dremel       |             | Apache Drill, [Presto](https://prestodb.io) |
 | Search      |             | Lucene, Solr, Elasticsearch|
 
 ### DevOps
@@ -42,7 +42,7 @@ __Please do not list any confidential projects!__
 | -------------|------------ |-------------|
 | Blaze        |  [Bazel] (http://bazel.io)          |  |
 | Oncall       |             | [PagerDuty](https://pagerduty.com) |
-| varz/borgmon | | [librato](https://www.librato.com/), [newrelic](http://newrelic.com/)|
+| varz/borgmon | | [librato](https://www.librato.com), [newrelic](http://newrelic.com)|
 
 
 ## Operational
