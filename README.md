@@ -45,8 +45,8 @@ __Please do not list any confidential projects!__
 | Blaze        |  [Bazel] (http://bazel.io)          |  |
 | Oncall       |             | [PagerDuty](https://pagerduty.com) |
 | varz/borgmon | | [librato](https://www.librato.com), [newrelic](http://newrelic.com)|
-| build / releasing | | [shipit-engine](https://github.com/Shopify/shipit-engine)|
 | styleguides | [google styleguides](https://github.com/google/styleguide) | |
+| build / releasing | | [shipit-engine](https://github.com/Shopify/shipit-engine)|
 | blaze test / CI | | buildkite, circleCI, travis, jenkins|
 
 ## Operational
