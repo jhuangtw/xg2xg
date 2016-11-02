@@ -1,4 +1,4 @@
-A handy lookup table of similar technology and services to help xooglers survive the outside world :)  
+A handy lookup table of similar technology and services to help xooglers survive the *real* world :)  
 pull-requests welcomed. this doc is only intended for well-known technology and services.
 
 __Please do not list any confidential projects!__
