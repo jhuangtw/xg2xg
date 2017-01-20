@@ -46,8 +46,8 @@ __Please do not list any confidential projects!__
 | Oncall       |             | [PagerDuty](https://pagerduty.com) |
 | varz/borgmon | | [librato](https://www.librato.com), [newrelic](http://newrelic.com), skylight, scout|
 | styleguides | [google styleguides](https://github.com/google/styleguide) | |
-| build / releasing | | [shipit-engine](https://github.com/Shopify/shipit-engine)|
-| blaze test / CI | | buildkite, circleCI, travis, jenkins|
+| blaze test / build / CI | | buildkite, circleCI, travis, jenkins, gitlabCI |
+| continuous delivery / releasing | | lambdaCD, screwdriver.cd, codeship, [shipit-engine](https://github.com/Shopify/shipit-engine) |
 
 ## Operational
 | Google Internal  |   Real World  |
