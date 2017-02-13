@@ -37,6 +37,7 @@ __Please do not list any confidential projects!__
 | Google Internal  | Google Open Source | Open Source    |
 | -------------|------------ |-------------|
 | Dremel       |             | Apache Drill, [Presto](https://prestodb.io) |
+| Dremel UI    |             | https://redash.io/ |
 | Search (Mustang, Alexandria) |             | Lucene, Solr, Elasticsearch|
 
 ### DevOps
