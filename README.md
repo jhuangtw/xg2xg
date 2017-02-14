@@ -27,7 +27,7 @@ __Please do not list any confidential projects!__
 | -------------|------------ |-------------|
 | GFS/Colossus| | HDFS |
 | BigTable     |   | Cassandra, HBase, accumulo |
-| [Spanner](http://research.google.com/archive/spanner.html)   | [spanner](https://cloud.google.com/spanner/) | [CockroachDB](https://github.com/cockroachdb/cockroach) |cloud 
+| [Spanner](http://research.google.com/archive/spanner.html)   | [cloud spanner](https://cloud.google.com/spanner/) | [CockroachDB](https://github.com/cockroachdb/cockroach) | 
 | columnIO | | Apache Parquet |
 | sstable | levelDB | |
 
@@ -54,4 +54,5 @@ __Please do not list any confidential projects!__
 | Google Internal  |   Real World  |
 | -------------    | ------------- |
 | free food        |   :(          |
+| [software engineering at google](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf) | |
 | valentine        | [Meldium](https://www.meldium.com/)  |
