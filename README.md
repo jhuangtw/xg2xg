@@ -27,7 +27,7 @@ __Please do not list any confidential projects!__
 | -------------|------------ |-------------|
 | GFS/Colossus| | HDFS |
 | BigTable     |   | Cassandra, HBase, accumulo |
-| [Spanner](http://research.google.com/archive/spanner.html)   | | [CockroachDB](https://github.com/cockroachdb/cockroach) |
+| [Spanner](http://research.google.com/archive/spanner.html)   | [spanner](https://cloud.google.com/spanner/) | [CockroachDB](https://github.com/cockroachdb/cockroach) |cloud 
 | columnIO | | Apache Parquet |
 | sstable | levelDB | |
 
