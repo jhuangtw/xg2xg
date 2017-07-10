@@ -55,4 +55,4 @@ __Please do not list any confidential projects!__
 | -------------    | ------------- |
 | free food        |   :(          |
 | [software engineering at google](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf) | |
-| valentine        | [Meldium](https://www.meldium.com/)  |
+| valentine        | [1Password](https://support.1password.com/create-share-vaults/)  |
