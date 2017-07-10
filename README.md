@@ -56,4 +56,4 @@ __Please do not list any confidential projects!__
 | free food        |   :(          |
 | [software engineering at google](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf) | |
 | valentine        | [1Password](https://support.1password.com/create-share-vaults/)  |
-| OWNERS files in repo     | https://github.com/blog/2392-introducing-code-owners |
+| OWNERS files in repo     | [github CODEOWNERS](https://github.com/blog/2392-introducing-code-owners) |
