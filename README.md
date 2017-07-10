@@ -9,7 +9,7 @@ __Please do not list any confidential projects!__
 
 | Google Internal   | Google Open Source   |  Open Source  |
 | -------------     |  -------------       |-------------  |
-| MapReduce         |     | Apache Hadoop  |
+| MapReduce         |     | Apache Hadoop, Spark  |
 | Protocol Buffer   | [Protobuf](https://github.com/google/protobuf)    | Avro, Thrift      |
 | Chubby            |      | Apache Zookeeper      |
 
@@ -36,9 +36,9 @@ __Please do not list any confidential projects!__
 
 | Google Internal  | Google Open Source | Open Source    |
 | -------------|------------ |-------------|
-| Dremel       |             | Apache Drill, [Presto](https://prestodb.io) |
+| Dremel       |             | Apache Drill, [Presto](https://prestodb.io), AWS Athena, Spark(sort-of) |
 | Dremel UI    |             | https://redash.io/ |
-| Search (Mustang, Alexandria) |             | Lucene, Solr, Elasticsearch|
+| Search (Mustang, Alexandria) |             | Lucene, Solr, Elasticsearch |
 
 ### DevOps
 | Google Internal  | Google Open Source | Real World    |
