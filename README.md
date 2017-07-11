@@ -44,8 +44,8 @@ __Please do not list any confidential projects!__
 | Google Internal  | Google Open Source | Real World    |
 | -------------|------------ |-------------|
 | Blaze        |  [Bazel] (http://bazel.io)          |  |
-| Oncall       |             | [PagerDuty](https://pagerduty.com) |
-| varz/borgmon | | [librato](https://www.librato.com), [newrelic](http://newrelic.com), skylight, scout|
+| Oncall       |             | [PagerDuty](https://pagerduty.com), [OpsGenie](https://www.opsgenie.com/), [VictorOps](https://victorops.com/) |
+| varz/borgmon | | [Prometheus](https://prometheus.io), [librato](https://www.librato.com), [newrelic](http://newrelic.com), skylight, scout|
 | styleguides | [google styleguides](https://github.com/google/styleguide) | |
 | blaze test / build / CI | | buildkite, circleCI, travis, jenkins, gitlabCI |
 | continuous delivery / releasing | | lambdaCD, screwdriver.cd, codeship, [shipit-engine](https://github.com/Shopify/shipit-engine) |
