@@ -46,6 +46,7 @@ __Please do not list any confidential projects!__
 | Blaze        |  [Bazel] (http://bazel.io)          |  |
 | Oncall       |             | [PagerDuty](https://pagerduty.com), [OpsGenie](https://www.opsgenie.com/), [VictorOps](https://victorops.com/) |
 | varz/borgmon | | [Prometheus](https://prometheus.io), [librato](https://www.librato.com), [newrelic](http://newrelic.com), skylight, scout|
+| Exception/Error Tracking (??) | | Sentry.io, Raygun.io, Rollbar, Honeybadger, Airbrake, OverOps |
 | styleguides | [google styleguides](https://github.com/google/styleguide) | |
 | blaze test / build / CI | | buildkite, circleCI, travis, jenkins, gitlabCI |
 | continuous delivery / releasing | | [lambdaCD](http://www.lambda.cd), screwdriver.cd, [CodeShip](codeship.com), [shipit-engine](https://github.com/Shopify/shipit-engine), [GoCD](https://www.gocd.org), [Concourse](https://concourse.ci), [AWS CodeDeploy](https://aws.amazon.com/codedeploy/), [Capistrano](https://www.capistranorb.com), [Fabric](https://www.fabfile.org) |
