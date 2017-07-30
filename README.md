@@ -48,7 +48,7 @@ __Please do not list any confidential projects!__
 | varz/borgmon | | [Prometheus](https://prometheus.io), [librato](https://www.librato.com), [newrelic](http://newrelic.com), skylight, scout|
 | styleguides | [google styleguides](https://github.com/google/styleguide) | |
 | blaze test / build / CI | | buildkite, circleCI, travis, jenkins, gitlabCI |
-| continuous delivery / releasing | | lambdaCD, screwdriver.cd, codeship, [shipit-engine](https://github.com/Shopify/shipit-engine) |
+| continuous delivery / releasing | | [lambdaCD](http://www.lambda.cd), screwdriver.cd, [CodeShip](codeship.com), [shipit-engine](https://github.com/Shopify/shipit-engine), [GoCD](https://www.gocd.org), [Concourse](https://concourse.ci), [AWS CodeDeploy](https://aws.amazon.com/codedeploy/), [Capistrano](https://www.capistranorb.com), [Fabric](https://www.fabfile.org) |
 
 ## Operational
 | Google Internal  |   Real World  |
