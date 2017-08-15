@@ -11,7 +11,7 @@ __Please do not list any confidential projects!__
 | -------------     |  -------------       |-------------  |
 | MapReduce         |     | Apache Hadoop, Spark  |
 | Protocol Buffer   | [Protobuf](https://github.com/google/protobuf)    | Avro, Thrift      |
-| network protocol | gRPC | bolt |
+| network protocol | gRPC | bolt, thrift |
 | Chubby            |      | Apache Zookeeper      |
 
 
