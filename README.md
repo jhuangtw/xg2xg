@@ -43,6 +43,7 @@ __Please do not list any confidential projects!__
 | Dremel       |             | Apache Drill, [Presto](https://prestodb.io), AWS Athena, Spark(sort-of) |
 | Dremel UI    |             | https://redash.io/ |
 | Search (Mustang, Alexandria) |             | Lucene, Solr, Elasticsearch |
+| pubsub | [pubsub](https://cloud.google.com/pubsub/docs/overview) | rabbitMQ, aws sns/sqs |
 
 ### DevOps
 | Google Internal  | Google Open Source | Real World    |
