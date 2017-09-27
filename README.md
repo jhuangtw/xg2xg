@@ -30,7 +30,7 @@ __Please do not list any confidential projects!__
 | Google Internal  | Google Open Source | Open Source    |
 | -------------|------------ |-------------|
 | GFS/Colossus| | HDFS, [Ceph](https://ceph.com), [GlusterFS](https://www.gluster.org) |
-| BigTable     |   | Cassandra, HBase, accumulo |
+| BigTable     |   | Cassandra, HBase, accumulo, dynamoDB |
 | [Spanner](http://research.google.com/archive/spanner.html)   | [cloud spanner](https://cloud.google.com/spanner/) | [CockroachDB](https://github.com/cockroachdb/cockroach) | 
 | columnIO | | Apache Parquet |
 | sstable | levelDB | |
