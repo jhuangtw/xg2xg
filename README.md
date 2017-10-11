@@ -15,6 +15,7 @@ __Please do not list any confidential projects!__
 | Protocol Buffer   | [Protobuf](https://github.com/google/protobuf)    | Avro, Thrift      |
 | network protocol | gRPC | bolt, thrift |
 | Chubby            |      | Apache Zookeeper      |
+| ? | | apache kafka, apache pulsar |
 
 
 ### Infrastructure
