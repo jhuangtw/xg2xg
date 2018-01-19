@@ -51,7 +51,7 @@ __Please do not list any confidential projects!__
 | -------------|------------ |-------------|
 | Blaze        |  [Bazel] (http://bazel.io)          |  |
 | Oncall       |             | [PagerDuty](https://pagerduty.com), [OpsGenie](https://www.opsgenie.com/), [VictorOps](https://victorops.com/) |
-| varz/borgmon | | [Prometheus](https://prometheus.io), [librato](https://www.librato.com), [newrelic](http://newrelic.com), skylight, scout, also [see](https://vimeo.com/173610242)|
+| varz/borgmon | | [Prometheus](https://prometheus.io), [librato](https://www.librato.com), [newrelic](http://newrelic.com), skylight, scout, also [this](https://vimeo.com/173610242) and [this](https://prometheus.io/docs/introduction/comparison/) |
 | Exception/Error Tracking (??) | | Sentry.io, Raygun.io, Rollbar, Honeybadger, Airbrake, OverOps |
 | styleguides | [google styleguides](https://github.com/google/styleguide) | |
 | blaze test / build / CI | | buildkite, circleCI, travis, jenkins, gitlabCI |
