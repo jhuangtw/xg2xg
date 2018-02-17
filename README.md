@@ -41,7 +41,7 @@ __Please do not list any confidential projects!__
 
 | Google Internal  | Google Open Source | Open Source    |
 | -------------|------------ |-------------|
-| Dremel       |             | Apache Drill, [Presto](https://prestodb.io), AWS Athena, Spark(sort-of), [Redshift Spectrum](https://aws.amazon.com/redshift/spectrum/) |
+| Dremel       |   [bigquery](https://cloud.google.com/bigquery/)     | Apache Drill, [Presto](https://prestodb.io), AWS Athena, Spark(sort-of), [Redshift Spectrum](https://aws.amazon.com/redshift/spectrum/) |
 | Dremel UI    |             | https://redash.io/ |
 | Search (Mustang, Alexandria) |             | Elasticsearch, Solr, Lucene  |
 | pubsub | [pubsub](https://cloud.google.com/pubsub/docs/overview) | RabbitMQ, AWS SQS/SNS, [PubNub](https://www.pubnub.com/) |
