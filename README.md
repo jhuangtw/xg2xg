@@ -12,17 +12,17 @@ __Please do not list any confidential projects!__
 | Google Internal   | Google Open Source   |  Open Source  |
 | -------------     |  -------------       |-------------  |
 | MapReduce         |     | Apache Hadoop, Spark  |
-| Protocol Buffer   | [Protobuf](https://github.com/google/protobuf)    | Avro, Thrift      |
-| network protocol | gRPC | bolt, thrift |
-| Chubby            |      | Apache Zookeeper      |
-| ? | | apache kafka, apache pulsar |
+| Protocol Buffer   | [Protobuf](https://github.com/google/protobuf)    | [Cap'n Proto](https://capnproto.org/), Thrift, Avro      |
+| Network protocol | gRPC | Bolt, Thrift |
+| Chubby            |      | Apache Zookeeper, [etcd](https://github.com/coreos/etcd)      |
+| ? | | Apache Kafka, Apache Pulsar |
 
 
 ### Infrastructure
 
 | Google Internal   | Google Open Source   |  Open Source  |
 | -------------     |  -------------       |-------------  |
-| Borg              |                      | Apache Mesos, Kubernetes  |
+| Borg              |                      | [Kubernetes](https://kubernetes.io/), Apache Mesos  |
 | GSLB (load balancer)| | ELB, [Istio](https://istio.io/), [F5](https://f5.com/products/big-ip), [envoy](https://github.com/lyft/envoy) |
 
 
@@ -31,7 +31,7 @@ __Please do not list any confidential projects!__
 | Google Internal  | Google Open Source | Open Source    |
 | -------------|------------ |-------------|
 | GFS/Colossus| | HDFS, [Ceph](https://ceph.com), [GlusterFS](https://www.gluster.org) |
-| BigTable     |   | Cassandra, HBase, accumulo, dynamoDB |
+| BigTable     |   | Cassandra, HBase, Accumulo, DynamoDB |
 | [Spanner](http://research.google.com/archive/spanner.html)   | [cloud spanner](https://cloud.google.com/spanner/) | [CockroachDB](https://github.com/cockroachdb/cockroach) | 
 | columnIO | | Apache Parquet |
 | sstable | levelDB | |
@@ -41,15 +41,15 @@ __Please do not list any confidential projects!__
 
 | Google Internal  | Google Open Source | Open Source    |
 | -------------|------------ |-------------|
-| Dremel       |             | Apache Drill, [Presto](https://prestodb.io), AWS Athena, Spark(sort-of) |
+| Dremel       |             | Apache Drill, [Presto](https://prestodb.io), AWS Athena, Spark(sort-of), [Redshift Spectrum](https://aws.amazon.com/redshift/spectrum/) |
 | Dremel UI    |             | https://redash.io/ |
-| Search (Mustang, Alexandria) |             | Lucene, Solr, Elasticsearch |
-| pubsub | [pubsub](https://cloud.google.com/pubsub/docs/overview) | rabbitMQ, aws sns/sqs |
+| Search (Mustang, Alexandria) |             | Elasticsearch, Solr, Lucene  |
+| pubsub | [pubsub](https://cloud.google.com/pubsub/docs/overview) | RabbitMQ, AWS SQS/SNS, [PubNub](https://www.pubnub.com/) |
 
 ### DevOps
 | Google Internal  | Google Open Source | Real World    |
 | -------------|------------ |-------------|
-| Blaze        |  [Bazel] (http://bazel.io)          |  |
+| Blaze        |  [Bazel](http://bazel.io)          |  |
 | Oncall       |             | [PagerDuty](https://pagerduty.com), [OpsGenie](https://www.opsgenie.com/), [VictorOps](https://victorops.com/) |
 | varz/borgmon | | [Prometheus](https://prometheus.io), [librato](https://www.librato.com), [newrelic](http://newrelic.com), skylight, scout, also [this](https://vimeo.com/173610242) and [this](https://prometheus.io/docs/introduction/comparison/) |
 | Exception/Error Tracking (??) | | Sentry.io, Raygun.io, Rollbar, Honeybadger, Airbrake, OverOps |
