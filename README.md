@@ -32,7 +32,7 @@ __Please do not list any confidential projects!__
 | -------------|------------ |-------------|
 | GFS/Colossus| | HDFS, [Ceph](https://ceph.com), [GlusterFS](https://www.gluster.org) |
 | BigTable     |   | Cassandra, HBase, Accumulo, DynamoDB |
-| [Spanner](http://research.google.com/archive/spanner.html)   | [cloud spanner](https://cloud.google.com/spanner/) | [CockroachDB](https://github.com/cockroachdb/cockroach) | 
+| [Spanner](http://research.google.com/archive/spanner.html)   | [cloud spanner](https://cloud.google.com/spanner/) | [CockroachDB](https://github.com/cockroachdb/cockroach), [TiDB](https://github.com/pingcap/tidb) | 
 | columnIO | | Apache Parquet |
 | sstable | levelDB | |
 
