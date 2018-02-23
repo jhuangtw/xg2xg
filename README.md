@@ -32,10 +32,10 @@ __Please do not list any confidential projects!__
 | Google Internal  | Google Open Source | Open Source    |
 | -------------|------------ |-------------|
 | GFS/Colossus| | HDFS, [Ceph](https://ceph.com), [GlusterFS](https://www.gluster.org) |
-| BigTable     |   | [PrestoDB](https://prestodb.io/), Cassandra, HBase, Accumulo, DynamoDB |
-| [Spanner](http://research.google.com/archive/spanner.html)   | [cloud spanner](https://cloud.google.com/spanner/) | [CockroachDB](https://github.com/cockroachdb/cockroach), [TiDB](https://github.com/pingcap/tidb) | 
-| columnIO | | Apache Parquet |
-| sstable | levelDB | |
+| BigTable     |   | [PrestoDB](https://prestodb.io/), [Cassandra](https://github.com/apache/cassandra), [HBase](https://github.com/apache/hbase), [Accumulo](https://github.com/apache/accumulo), [DynamoDB](https://aws.amazon.com/dynamodb) |
+| [Spanner](http://research.google.com/archive/spanner.html)   | [Cloud Spanner](https://cloud.google.com/spanner/) | [CockroachDB](https://github.com/cockroachdb/cockroach), [TiDB](https://github.com/pingcap/tidb) |
+| columnIO | | [Apache Parquet](http://parquet.apache.org) |
+| sstable | [levelDB](https://github.com/google/leveldb) | |
 | zippy | [Snappy](https://github.com/google/snappy) | [lz4](https://github.com/lz4/lz4) |
 
 
