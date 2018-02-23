@@ -35,6 +35,7 @@ __Please do not list any confidential projects!__
 | [Spanner](http://research.google.com/archive/spanner.html)   | [cloud spanner](https://cloud.google.com/spanner/) | [CockroachDB](https://github.com/cockroachdb/cockroach), [TiDB](https://github.com/pingcap/tidb) | 
 | columnIO | | Apache Parquet |
 | sstable | levelDB | |
+| zippy | [Snappy](https://github.com/google/snappy) | [lz4](https://github.com/lz4/lz4) |
 
 
 ### Services
