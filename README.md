@@ -9,10 +9,10 @@ __Please do not list any confidential projects!__
 
 ### Core Technology
 
-| Google Internal   | Google Open Source   |  Open Source  |
+| Google Internal   | Google Open Source   |  Open Source / Real-World  |
 | -------------     |  -------------       |-------------  |
 | MapReduce         |     | [Apache Hadoop](https://github.com/apache/hadoop), [Spark](https://github.com/apache/spark)  |
-| Protocol Buffer   | [Protobuf](https://github.com/google/protobuf)    | [Cap'n Proto](https://capnproto.org/), [Thrift](https://github.com/apache/thrift), [Avro](https://github.com/apache/avro)      |
+| Protocol Buffer   | [Protobuf](https://github.com/google/protobuf)    | [Cap'n Proto](https://capnproto.org/), [Thrift](https://github.com/apache/thrift), [Avro](https://github.com/apache/avro) [Amazon Ion](https://amzn.github.io/ion-docs/)    |
 | Network protocol | [gRPC](https://github.com/grpc/grpc) | Bolt, [Thrift](https://github.com/apache/thrift) |
 | Chubby            |      | [Apache Zookeeper](https://github.com/apache/zookeeper), [etcd](https://github.com/coreos/etcd)      |
 | ? | | [Apache Kafka](https://github.com/apache/kafka), [Apache Pulsar](https://github.com/apache/incubator-pulsar) |
@@ -20,7 +20,7 @@ __Please do not list any confidential projects!__
 
 ### Infrastructure
 
-| Google Internal   | Google Open Source   |  Open Source  |
+| Google Internal   | Google Open Source   |  Open Source / Real-World  |
 | -------------     |  -------------       |-------------  |
 | Borg              | [Kubernetes](https://kubernetes.io/) | [Apache Mesos](https://github.com/apache/mesos) |
 | GSLB (load balancer)| | ELB, [Istio](https://istio.io/), [F5](https://f5.com/products/big-ip), [envoy](https://github.com/lyft/envoy) |
@@ -29,7 +29,7 @@ __Please do not list any confidential projects!__
 
 ### Storage
 
-| Google Internal  | Google Open Source | Open Source    |
+| Google Internal  | Google Open Source | Open Source / Real-World  |
 | -------------|------------ |-------------|
 | GFS/Colossus| | HDFS, [Ceph](https://ceph.com), [GlusterFS](https://www.gluster.org) |
 | BigTable     |   | [PrestoDB](https://prestodb.io/), [Cassandra](https://github.com/apache/cassandra), [HBase](https://github.com/apache/hbase), [Accumulo](https://github.com/apache/accumulo), [DynamoDB](https://aws.amazon.com/dynamodb) |
@@ -49,7 +49,7 @@ __Please do not list any confidential projects!__
 | pubsub | [pubsub](https://cloud.google.com/pubsub/docs/overview) | RabbitMQ, [PubNub](https://www.pubnub.com/) | AWS SQS/SNS |
 
 ### DevOps
-| Google Internal  | Google Open Source | Real World    |
+| Google Internal  | Google Open Source | Real-World    |
 | -------------|------------ |-------------|
 | Blaze        |  [Bazel](http://bazel.io)          | [Buck](https://buckbuild.com/), [Pants](https://www.pantsbuild.org/) |
 | Oncall       |             | [PagerDuty](https://pagerduty.com), [OpsGenie](https://www.opsgenie.com/), [VictorOps](https://victorops.com/) |
@@ -65,7 +65,7 @@ __Please do not list any confidential projects!__
 | cider |  | [Eclipse Che](https://www.eclipse.org/che/), Cloud9 |
 
 ## Operational
-| Google Internal  |   Real World  |
+| Google Internal  |   Real-World  |
 | -------------    | ------------- |
 | free food        |   :(          |
 | [software engineering at google](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf) | |
