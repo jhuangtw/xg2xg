@@ -39,12 +39,12 @@ __Please do not list any confidential projects!__
 
 ### Services
 
-| Google Internal  | Google Open Source | Open Source    |
-| -------------|------------ |-------------|
-| Dremel       |   [bigquery](https://cloud.google.com/bigquery/)     | Apache Drill, [Presto](https://prestodb.io), AWS Athena, Spark(sort-of), [Redshift Spectrum](https://aws.amazon.com/redshift/spectrum/) |
-| Dremel UI    |             | https://redash.io/ |
-| Search (Mustang, Alexandria) |             | Elasticsearch, Solr, Lucene  |
-| pubsub | [pubsub](https://cloud.google.com/pubsub/docs/overview) | RabbitMQ, AWS SQS/SNS, [PubNub](https://www.pubnub.com/) |
+| Google Internal  | Google Open Source | Open Source | SaaS |
+| -------------|------------ |-------------|-------------|
+| Dremel       |   [bigquery](https://cloud.google.com/bigquery/)     | Apache Drill, [Presto](https://prestodb.io), Spark(sort-of), | AWS Athena, [Redshift Spectrum](https://aws.amazon.com/redshift/spectrum/) |
+| Dremel UI    |             | https://redash.io/ | |
+| Search (Mustang, Alexandria) |             | Elasticsearch, Solr, Lucene | [algolia](https://www.algolia.com/) |
+| pubsub | [pubsub](https://cloud.google.com/pubsub/docs/overview) | RabbitMQ, [PubNub](https://www.pubnub.com/) | AWS SQS/SNS |
 
 ### DevOps
 | Google Internal  | Google Open Source | Real World    |
