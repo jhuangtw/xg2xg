@@ -59,6 +59,7 @@ __Please do not list any confidential projects!__
 | borg / borgcfg || [AWS Cloudformation](https://aws.amazon.com/cloudformation/), Puppet, Chef, Salt, Ansible, [Terraform](https://www.terraform.io) |
 | borgcfg || [Jsonnet](http://jsonnet.org/) |
 | logging || logstash, fluentd, papertrail, [cernan](https://github.com/postmates/cernan) |
+| CodeSearch   |             | [Sourcegraph](https://sourcegraph.com) |
 
 ## Operational
 | Google Internal  |   Real World  |
