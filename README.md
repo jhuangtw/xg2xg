@@ -65,6 +65,6 @@ __Please do not list any confidential projects!__
 | -------------    | ------------- |
 | free food        |   :(          |
 | [software engineering at google](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf) | |
-| valentine        | [1Password](https://support.1password.com/create-share-vaults/)  |
+| valentine        | [1Password](https://support.1password.com/create-share-vaults/)  [Lastpass](http://lastpass.com)|
 | OWNERS files in repo     | [github CODEOWNERS](https://github.com/blog/2392-introducing-code-owners) |
 | snippets | [Khan/snippets](https://github.com/Khan/snippets) |
