@@ -11,11 +11,11 @@ __Please do not list any confidential projects!__
 
 | Google Internal   | Google Open Source   |  Open Source  |
 | -------------     |  -------------       |-------------  |
-| MapReduce         |     | Apache Hadoop, Spark  |
-| Protocol Buffer   | [Protobuf](https://github.com/google/protobuf)    | [Cap'n Proto](https://capnproto.org/), Thrift, Avro      |
-| Network protocol | gRPC | Bolt, Thrift |
-| Chubby            |      | Apache Zookeeper, [etcd](https://github.com/coreos/etcd)      |
-| ? | | Apache Kafka, Apache Pulsar |
+| MapReduce         |     | [Apache Hadoop](https://github.com/apache/hadoop), [Spark](https://github.com/apache/spark)  |
+| Protocol Buffer   | [Protobuf](https://github.com/google/protobuf)    | [Cap'n Proto](https://capnproto.org/), [Thrift](https://github.com/apache/thrift), [Avro](https://github.com/apache/avro)      |
+| Network protocol | [gRPC](https://github.com/grpc/grpc) | Bolt, [Thrift](https://github.com/apache/thrift) |
+| Chubby            |      | [Apache Zookeeper](https://github.com/apache/zookeeper), [etcd](https://github.com/coreos/etcd)      |
+| ? | | [Apache Kafka](https://github.com/apache/kafka), [Apache Pulsar](https://github.com/apache/incubator-pulsar) |
 
 
 ### Infrastructure
