@@ -31,7 +31,7 @@ __Please do not list any confidential projects!__
 | Google Internal  | Google Open Source | Open Source    |
 | -------------|------------ |-------------|
 | GFS/Colossus| | HDFS, [Ceph](https://ceph.com), [GlusterFS](https://www.gluster.org) |
-| BigTable     |   | Cassandra, HBase, Accumulo, DynamoDB |
+| BigTable     |   | [PrestoDB](https://prestodb.io/), Cassandra, HBase, Accumulo, DynamoDB |
 | [Spanner](http://research.google.com/archive/spanner.html)   | [cloud spanner](https://cloud.google.com/spanner/) | [CockroachDB](https://github.com/cockroachdb/cockroach), [TiDB](https://github.com/pingcap/tidb) | 
 | columnIO | | Apache Parquet |
 | sstable | levelDB | |
@@ -49,21 +49,23 @@ __Please do not list any confidential projects!__
 ### DevOps
 | Google Internal  | Google Open Source | Real World    |
 | -------------|------------ |-------------|
-| Blaze        |  [Bazel](http://bazel.io)          |  |
+| Blaze        |  [Bazel](http://bazel.io)          | [Buck](https://buckbuild.com/), [Pants](https://www.pantsbuild.org/) |
 | Oncall       |             | [PagerDuty](https://pagerduty.com), [OpsGenie](https://www.opsgenie.com/), [VictorOps](https://victorops.com/) |
 | varz/borgmon | | [Prometheus](https://prometheus.io), [librato](https://www.librato.com), [newrelic](http://newrelic.com), skylight, scout, also [this](https://vimeo.com/173610242) and [this](https://prometheus.io/docs/introduction/comparison/) |
 | Exception/Error Tracking (??) | | Sentry.io, Raygun.io, Rollbar, Honeybadger, Airbrake, OverOps |
-| styleguides | [google styleguides](https://github.com/google/styleguide) | |
+| styleguides | [google styleguides](https://github.com/google/styleguide) | [PEP-8](https://www.python.org/dev/peps/pep-0008/) |
 | blaze test / build / CI | | buildkite, circleCI, travis, jenkins, gitlabCI |
 | continuous delivery / releasing | | [lambdaCD](http://www.lambda.cd), screwdriver.cd, [CodeShip](https://codeship.com), [shipit-engine](https://github.com/Shopify/shipit-engine), [GoCD](https://www.gocd.org), [AWS CodeDeploy](https://aws.amazon.com/codedeploy/), [Capistrano](https://www.capistranorb.com), [Fabric](https://www.fabfile.org), [ConcourseCI](https://concourse.ci/)|
 | borg / borgcfg || [AWS Cloudformation](https://aws.amazon.com/cloudformation/), Puppet, Chef, Salt, Ansible, [Terraform](https://www.terraform.io) |
+| borgcfg || [Jsonnet](http://jsonnet.org/) |
 | logging || logstash, fluentd, papertrail, [cernan](https://github.com/postmates/cernan) |
+| CodeSearch   |             | [Sourcegraph](https://sourcegraph.com) |
 
 ## Operational
 | Google Internal  |   Real World  |
 | -------------    | ------------- |
 | free food        |   :(          |
 | [software engineering at google](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf) | |
-| valentine        | [1Password](https://support.1password.com/create-share-vaults/)  |
+| valentine        | [1Password](https://support.1password.com/create-share-vaults/)  [Lastpass](http://lastpass.com)|
 | OWNERS files in repo     | [github CODEOWNERS](https://github.com/blog/2392-introducing-code-owners) |
 | snippets | [Khan/snippets](https://github.com/Khan/snippets) |
