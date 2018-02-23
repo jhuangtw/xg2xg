@@ -70,6 +70,9 @@ See also: [The Hadoop Ecosystem Table](https://hadoopecosystemtable.github.io/)
 | OWNERS files in repo     | [github CODEOWNERS](https://github.com/blog/2392-introducing-code-owners) |
 | snippets | [Khan/snippets](https://github.com/Khan/snippets) |
 | memegen | [memegen](http://www.memegen.com/) |
+| internal communities | [xoogler.co](http://xoogler.co/) |
+| edge, people ops training | [LifeLabs](http://lifelabsnewyork.com/) |
+| googlegeist | [Culture Amp](https://www.cultureamp.com/), [humu](http://www.humu.com/) |
 
 
 *disclaimer: I'm not affiliated with any of the technologies mentioned above.*
