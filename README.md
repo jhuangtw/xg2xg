@@ -73,4 +73,4 @@ See also: [The Hadoop Ecosystem Table](https://hadoopecosystemtable.github.io/)
 | memegen | [memegen](http://www.memegen.com/) |
 
 
-*disclaimer: I'm not meaningfully affiliated with any of the technlogies mentioned above.*
+*disclaimer: I'm not affiliated with any of the technologies mentioned above.*
