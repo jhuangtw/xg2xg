@@ -62,6 +62,7 @@ __Please do not list any confidential projects!__
 | borgcfg || [Jsonnet](http://jsonnet.org/) |
 | logging || logstash, fluentd, papertrail, [cernan](https://github.com/postmates/cernan) |
 | CodeSearch   |             | [Sourcegraph](https://sourcegraph.com) |
+| cider |  | [Eclipse Che](https://www.eclipse.org/che/), Cloud9 |
 
 ## Operational
 | Google Internal  |   Real World  |
