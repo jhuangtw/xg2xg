@@ -1,5 +1,5 @@
 A handy lookup table of similar technology and services to help ex-googlers survive the *real* world :)  
-pull-requests welcomed. __Please do not list any confidential projects!__
+pull-requests very welcomed. __Please do not list any confidential projects!__
 
 See also: [The Hadoop Ecosystem Table](https://hadoopecosystemtable.github.io/)
 
@@ -71,3 +71,6 @@ See also: [The Hadoop Ecosystem Table](https://hadoopecosystemtable.github.io/)
 | OWNERS files in repo     | [github CODEOWNERS](https://github.com/blog/2392-introducing-code-owners) |
 | snippets | [Khan/snippets](https://github.com/Khan/snippets) |
 | memegen | [memegen](http://www.memegen.com/) |
+
+
+*disclaimer: I'm not meaningfully affiliated with any of the technlogies mentioned above.*
