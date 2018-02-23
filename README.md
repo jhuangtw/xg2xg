@@ -57,6 +57,7 @@ __Please do not list any confidential projects!__
 | blaze test / build / CI | | buildkite, circleCI, travis, jenkins, gitlabCI |
 | continuous delivery / releasing | | [lambdaCD](http://www.lambda.cd), screwdriver.cd, [CodeShip](https://codeship.com), [shipit-engine](https://github.com/Shopify/shipit-engine), [GoCD](https://www.gocd.org), [AWS CodeDeploy](https://aws.amazon.com/codedeploy/), [Capistrano](https://www.capistranorb.com), [Fabric](https://www.fabfile.org), [ConcourseCI](https://concourse.ci/)|
 | borg / borgcfg || [AWS Cloudformation](https://aws.amazon.com/cloudformation/), Puppet, Chef, Salt, Ansible, [Terraform](https://www.terraform.io) |
+| borgcfg || [Jsonnet](http://jsonnet.org/) |
 | logging || logstash, fluentd, papertrail, [cernan](https://github.com/postmates/cernan) |
 
 ## Operational
