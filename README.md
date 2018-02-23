@@ -42,7 +42,7 @@ See also: [The Hadoop Ecosystem Table](https://hadoopecosystemtable.github.io/)
 | Google Internal  | Google Open Source | Open Source | SaaS |
 | -------------|------------ |-------------|-------------|
 | Dremel       |   [bigquery](https://cloud.google.com/bigquery/)     | Apache Drill, [Presto](https://prestodb.io), Spark(sort-of), | AWS Athena, [Redshift Spectrum](https://aws.amazon.com/redshift/spectrum/) |
-| Dremel UI    |             | https://redash.io/ | |
+| Dremel UI    |             | [Redash](https://github.com/getredash/redash) | |
 | Search (Mustang, Alexandria) |             | Elasticsearch, Solr, Lucene | [algolia](https://www.algolia.com/) |
 | pubsub | [pubsub](https://cloud.google.com/pubsub/docs/overview) | RabbitMQ, [PubNub](https://www.pubnub.com/) | AWS SQS/SNS |
 
