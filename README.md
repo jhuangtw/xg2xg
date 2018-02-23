@@ -1,9 +1,7 @@
-A handy lookup table of similar technology and services to help xooglers survive the *real* world :)  
-pull-requests welcomed. this doc is only intended for well-known technology and services.
+A handy lookup table of similar technology and services to help ex-googlers survive the *real* world :)  
+pull-requests welcomed. __Please do not list any confidential projects!__
 
 See also: [The Hadoop Ecosystem Table](https://hadoopecosystemtable.github.io/)
-
-__Please do not list any confidential projects!__
 
 ## Technology
 
