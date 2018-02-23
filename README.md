@@ -21,7 +21,7 @@ See also: [The Hadoop Ecosystem Table](https://hadoopecosystemtable.github.io/)
 | Google Internal   | Google External   |  Open Source / Real-World  |
 | -------------     |  -------------       |-------------  |
 | Borg              | [Kubernetes](https://kubernetes.io/) | [Apache Mesos](https://github.com/apache/mesos) |
-| GSLB (load balancer)| | ELB, [Istio](https://istio.io/), [F5](https://f5.com/products/big-ip), [envoy](https://github.com/lyft/envoy) |
+| GSLB (load balancer)| | ELB, [HAProxy](http://www.haproxy.org/), [Istio](https://istio.io/), [F5](https://f5.com/products/big-ip), [envoy](https://github.com/lyft/envoy) |
 | data center hardware | [open compute](http://www.opencompute.org/) |  |
 
 
