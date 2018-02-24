@@ -32,7 +32,7 @@ See also: [The Hadoop Ecosystem Table](https://hadoopecosystemtable.github.io/)
 | GFS/Colossus| | HDFS, [Ceph](https://ceph.com), [GlusterFS](https://www.gluster.org) |
 | BigTable     |   | [PrestoDB](https://prestodb.io/), [Cassandra](https://github.com/apache/cassandra), [HBase](https://github.com/apache/hbase), [Accumulo](https://github.com/apache/accumulo), [DynamoDB](https://aws.amazon.com/dynamodb) |
 | [Spanner](http://research.google.com/archive/spanner.html)   | [Cloud Spanner](https://cloud.google.com/spanner/) | [CockroachDB](https://github.com/cockroachdb/cockroach), [TiDB](https://github.com/pingcap/tidb) |
-| columnIO | | [Apache Parquet](http://parquet.apache.org) |
+| ColumnIO / [Capacitor](https://cloud.google.com/blog/big-data/2016/04/inside-capacitor-bigquerys-next-generation-columnar-storage-format) | | [Apache Parquet](http://parquet.apache.org) |
 | sstable | [levelDB](https://github.com/google/leveldb) | |
 | zippy | [Snappy](https://github.com/google/snappy) | [lz4](https://github.com/lz4/lz4) |
 
