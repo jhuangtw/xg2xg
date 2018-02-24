@@ -60,6 +60,7 @@ See also: [The Hadoop Ecosystem Table](https://hadoopecosystemtable.github.io/)
 | logging || logstash, fluentd, papertrail, [cernan](https://github.com/postmates/cernan) |
 | CodeSearch   |             | [Sourcegraph](https://sourcegraph.com) |
 | cider |  | [Eclipse Che](https://www.eclipse.org/che/), Cloud9 |
+| buganizer | | JIRA, bugzilla, github issues |
 
 ## Operational
 | Google Internal  |   Real-World  |
