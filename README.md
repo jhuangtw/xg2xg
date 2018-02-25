@@ -49,18 +49,24 @@ See also: [The Hadoop Ecosystem Table](https://hadoopecosystemtable.github.io/)
 ### DevOps
 | Google Internal  | Google External | Real-World    |
 | -------------|------------ |-------------|
+| Assimilator  |             | [**Dominator**](https://github.com/Symantec/Dominator) |
 | Blaze        |  [Bazel](http://bazel.io)          | [Buck](https://buckbuild.com/), [Pants](https://www.pantsbuild.org/), [please.build](https://please.build/) |
 | Oncall       |             | [PagerDuty](https://pagerduty.com), [OpsGenie](https://www.opsgenie.com/), [VictorOps](https://victorops.com/) |
-| varz/borgmon | | [Prometheus](https://prometheus.io), [librato](https://www.librato.com), [newrelic](http://newrelic.com), skylight, scout, also [this](https://vimeo.com/173610242) and [this](https://prometheus.io/docs/introduction/comparison/) |
+| varz/borgmon | | [Prometheus](https://prometheus.io), [librato](https://www.librato.com), [newrelic](http://newrelic.com), skylight, scout, [Scotty](https://github.com/Symantec/scotty)/[tricorder](https://github.com/Symantec/tricorder), also [this](https://vimeo.com/173610242) and [this](https://prometheus.io/docs/introduction/comparison/) |
 | Exception/Error Tracking (??) | | Sentry.io, Raygun.io, Rollbar, Honeybadger, Airbrake, OverOps |
 | styleguides | [google styleguides](https://github.com/google/styleguide) | [PEP-8](https://www.python.org/dev/peps/pep-0008/) |
 | blaze test / build / CI | | buildkite, circleCI, travis, jenkins, gitlabCI |
-| continuous delivery / releasing | | [lambdaCD](http://www.lambda.cd), screwdriver.cd, [CodeShip](https://codeship.com), [shipit-engine](https://github.com/Shopify/shipit-engine), [GoCD](https://www.gocd.org), [AWS CodeDeploy](https://aws.amazon.com/codedeploy/), [Capistrano](https://www.capistranorb.com), [Fabric](https://www.fabfile.org), [ConcourseCI](https://concourse.ci/)|
+| continuous delivery / releasing | | [Spinnaker](https://www.spinnaker.io/), [lambdaCD](http://www.lambda.cd), screwdriver.cd, [CodeShip](https://codeship.com), [shipit-engine](https://github.com/Shopify/shipit-engine), [GoCD](https://www.gocd.org), [AWS CodeDeploy](https://aws.amazon.com/codedeploy/), [Capistrano](https://www.capistranorb.com), [Fabric](https://www.fabfile.org), [ConcourseCI](https://concourse.ci/)|
 | borg / borgcfg || [AWS Cloudformation](https://aws.amazon.com/cloudformation/), Puppet, Chef, Salt, Ansible, [Terraform](https://www.terraform.io), [Jsonnet](http://jsonnet.org/) |
 | logging || logstash, fluentd, papertrail, [cernan](https://github.com/postmates/cernan) |
 | CodeSearch   |             | [Sourcegraph](https://sourcegraph.com) |
 | cider |  | [Eclipse Che](https://www.eclipse.org/che/), Cloud9 |
 | buganizer | | JIRA, bugzilla, github issues |
+
+### Security
+| Google Internal  | Google External | Real-World    |
+| -------------|------------ |-------------|
+| prodaccess   |             | [Keymaster](https://github.com/Symantec/keymaster) |
 
 ## Operational
 | Google Internal  |   Real-World  |
