@@ -10,7 +10,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | Google Internal   | Google External   |  Open Source / Real-World  |
 | -------------     |  -------------       |-------------  |
 | MapReduce         |     | [Apache Hadoop](https://github.com/apache/hadoop), [Spark](https://github.com/apache/spark)  |
-| Protocol Buffer   | [Protobuf](https://github.com/google/protobuf)    | [Cap'n Proto](https://capnproto.org/), [Thrift](https://github.com/apache/thrift), [Avro](https://github.com/apache/avro) [Amazon Ion](https://amzn.github.io/ion-docs/)    |
+| Protocol Buffer   | [Protobuf](https://github.com/google/protobuf)    | [Cap'n Proto](https://capnproto.org/), [Thrift](https://github.com/apache/thrift), [Avro](https://github.com/apache/avro), [Amazon Ion](https://amzn.github.io/ion-docs/)    |
 | Stubby | [gRPC](https://github.com/grpc/grpc) | Bolt, [Thrift](https://github.com/apache/thrift) |
 | Chubby            |      | [Apache Zookeeper](https://github.com/apache/zookeeper), [etcd](https://github.com/coreos/etcd)      |
 | ? | | [Apache Kafka](https://github.com/apache/kafka), [Apache Pulsar](https://github.com/apache/incubator-pulsar) |
@@ -73,7 +73,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | -------------    | ------------- |
 | free food        |   :(          |
 | [software engineering at google](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf) | |
-| valentine        | [1Password](https://support.1password.com/create-share-vaults/)  [Lastpass](http://lastpass.com)|
+| valentine        | [1Password](https://support.1password.com/create-share-vaults/), [Lastpass](http://lastpass.com)|
 | OWNERS files in repo     | [github CODEOWNERS](https://github.com/blog/2392-introducing-code-owners) |
 | snippets | [Khan/snippets](https://github.com/Khan/snippets) |
 | memegen | [memegen](http://www.memegen.com/) |
