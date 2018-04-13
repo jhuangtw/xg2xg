@@ -62,6 +62,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | CodeSearch   |             | [Sourcegraph](https://sourcegraph.com) |
 | cider |  | [Eclipse Che](https://www.eclipse.org/che/), Cloud9 |
 | buganizer | | JIRA, bugzilla, github issues |
+| prod secrets management | | [knox](https://github.com/pinterest/knox) |
 
 ### Security
 | Google Internal  | Google External | Real-World    |
