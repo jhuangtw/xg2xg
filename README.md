@@ -49,7 +49,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 ### DevOps
 | Google Internal  | Google External | Real-World    |
 | -------------|------------ |-------------|
-| Assimilator  |             | [**Dominator**](https://github.com/Symantec/Dominator) |
+| Assimilator  |             | [Dominator](https://github.com/Symantec/Dominator) |
 | Blaze        |  [Bazel](http://bazel.io)          | [Buck](https://buckbuild.com/), [Pants](https://www.pantsbuild.org/), [please.build](https://please.build/) |
 | Oncall       |             | [PagerDuty](https://pagerduty.com), [OpsGenie](https://www.opsgenie.com/), [VictorOps](https://victorops.com/) |
 | varz/borgmon | | [Prometheus](https://prometheus.io), [librato](https://www.librato.com), [newrelic](http://newrelic.com), skylight, scout, [Scotty](https://github.com/Symantec/scotty)/[tricorder](https://github.com/Symantec/tricorder), also [this](https://vimeo.com/173610242) and [this](https://prometheus.io/docs/introduction/comparison/) |
