@@ -62,12 +62,12 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | CodeSearch   |             | [Sourcegraph](https://sourcegraph.com) |
 | cider |  | [Eclipse Che](https://www.eclipse.org/che/), Cloud9 |
 | buganizer | | JIRA, bugzilla, github issues |
-| prod secrets management | | [knox](https://github.com/pinterest/knox) |
 
 ### Security
 | Google Internal  | Google External | Real-World    |
 | -------------|------------ |-------------|
 | prodaccess   |             | [Keymaster](https://github.com/Symantec/keymaster) |
+| prod secrets management | | [knox](https://github.com/pinterest/knox) |
 
 ## Operational
 | Google Internal  |   Real-World  |
@@ -80,6 +80,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | memegen | [memegen](http://www.memegen.com/) |
 | edge, people ops training | [LifeLabs](http://lifelabsnewyork.com/) |
 | googlegeist | [Culture Amp](https://www.cultureamp.com/), [humu](http://www.humu.com/) |
+| stuff (SaaS IT management) | [intello](https://www.intello.io/), [zylo](https://zylo.com/) |
 
 also check out [xoogler.co](http://xoogler.co/), which organizes events, slack channels etc
 
