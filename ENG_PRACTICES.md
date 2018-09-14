@@ -14,3 +14,6 @@ devops
 
 refactoring
 - https://refactoring.guru/
+
+papers
+- https://blog.acolyer.org/
