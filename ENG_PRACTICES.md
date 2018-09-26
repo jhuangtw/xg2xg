@@ -18,3 +18,11 @@ refactoring
 
 papers
 - https://blog.acolyer.org/
+
+fraud/spam related services:
+- https://pro.whitepages.com/ (vet employer/identity)
+- https://www.lexisnexis.com/en-us/gateway.page (vet employer/identity)
+- https://emailage.com/ (vet e-mail legitimacy)
+industry-collaborative risk-data-exchange project:
+- https://www.zerofox.com/ (commercial company)
+- https://developers.facebook.com/products/threat-exchange (by fb)
