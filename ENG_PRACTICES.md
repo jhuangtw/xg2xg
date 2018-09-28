@@ -12,6 +12,7 @@ books
 - first 90 days
 - high output management
 - hard thing about hard things
+- measure what matters (aka the okr book)
 - sapien
 
 secops
