@@ -8,6 +8,12 @@ eng management
 - [Manager READMEs](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
 - https://www.manager-tools.com/
 
+books
+- first 90 days
+- high output management
+- hard thing about hard things
+- sapien
+
 secops
 - https://sudo.pagerduty.com/
 
