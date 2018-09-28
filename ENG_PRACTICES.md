@@ -1,4 +1,6 @@
-eng management
+### Misc Resources, books, notes etc
+
+#### eng management
 - http://randsinrepose.com/
 - https://rework.withgoogle.com/
 - https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/
@@ -15,20 +17,20 @@ books
 - measure what matters (aka the okr book)
 - sapien
 
-secops
+#### secops
 - https://sudo.pagerduty.com/
 
-devops
+#### devops
 - [google SRE book](https://landing.google.com/sre/book/index.html)
 - https://github.com/etsy/DebriefingFacilitationGuide
 
-refactoring
+#### refactoring
 - https://refactoring.guru/
 
-papers
+#### papers
 - https://blog.acolyer.org/
 
-fraud/spam related services:
+#### fraud/spam related services:
 - https://pro.whitepages.com/ (vet employer/identity)
 - https://www.lexisnexis.com/en-us/gateway.page (vet employer/identity)
 - https://emailage.com/ (vet e-mail legitimacy)
