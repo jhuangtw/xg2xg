@@ -17,6 +17,9 @@ books
 - measure what matters (aka the okr book)
 - sapien
 
+email lists
+- https://maleallies.com/
+
 #### secops
 - https://sudo.pagerduty.com/
 
