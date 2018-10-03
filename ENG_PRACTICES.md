@@ -40,3 +40,6 @@ email lists
 industry-collaborative risk-data-exchange project:
 - https://www.zerofox.com/ (commercial company)
 - https://developers.facebook.com/products/threat-exchange (by fb)
+
+#### when all else fails, call:
+- https://layeraleph.com/
