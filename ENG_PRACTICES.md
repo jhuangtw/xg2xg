@@ -42,4 +42,4 @@ industry-collaborative risk-data-exchange project:
 - https://developers.facebook.com/products/threat-exchange (by fb)
 
 #### when all else fails, call:
-- https://layeraleph.com/
+- https://layeraleph.com/ (mikeyd@)
