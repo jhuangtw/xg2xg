@@ -84,7 +84,8 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | memegen | [memegen](http://www.memegen.com/) |
 | edge, people ops training | [LifeLabs](http://lifelabsnewyork.com/) |
 | googlegeist | [Culture Amp](https://www.cultureamp.com/), [humu](http://www.humu.com/) |
-| stuff (SaaS IT management) | [intello](https://www.intello.io/), [zylo](https://zylo.com/), [jamf - device management](https://www.jamf.com/) |
+| stuff (SaaS IT management) | [intello](https://www.intello.io/), [zylo](https://zylo.com/) |
+| stuff (Device Management) | [Fleetsmith](https://www.fleetsmith.com/), [jamf](https://www.jamf.com/) |
 | go/ links | [golinks](https://www.golinks.io/), [go](https://github.com/kellegous/go) |
 
 also check out [xoogler.co](http://xoogler.co/), which organizes events, slack channels etc
