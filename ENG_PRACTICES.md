@@ -9,6 +9,7 @@
 - [RACI](http://firstround.com/review/how-this-head-of-engineering-boosted-transparency-at-instagram/) and [this](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
 - [Manager READMEs](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
 - https://www.manager-tools.com/
+- [6 Must Reads for Managers Giving Feedback](http://firstround.com/review/our-6-must-reads-for-managers-to-give-feedback-that-helps-people-grow/)
 
 books
 - first 90 days
