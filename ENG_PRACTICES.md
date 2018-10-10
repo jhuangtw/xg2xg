@@ -20,6 +20,8 @@ books
 
 email lists
 - https://maleallies.com/
+- https://hello.cultureamp.com/subscribe-to-the-people-geekly
+- https://andrewchen.co/
 
 hiring rulbrics
 - https://docs.google.com/document/d/1iPw2p90HbEciKpt84JSVwefFnYtkN_W3X9SVV6FtvCg/edit
