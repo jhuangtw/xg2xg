@@ -48,6 +48,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | Dremel UI    |             | [Redash](https://github.com/getredash/redash) | |
 | Search (Mustang, Alexandria) |             | Elasticsearch, Solr, Lucene | [algolia](https://www.algolia.com/) |
 | pubsub | [pubsub](https://cloud.google.com/pubsub/docs/overview) | RabbitMQ, [PubNub](https://www.pubnub.com/) | AWS SQS/SNS |
+| [Flume (Java)](https://ai.google/research/pubs/pub35650) |             | [Apache Crunch](https://crunch.apache.org/) |     |
 
 ### DevOps
 | Google Internal  | Google External | Real-World    |
