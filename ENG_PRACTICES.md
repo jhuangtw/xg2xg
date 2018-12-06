@@ -51,6 +51,9 @@ industry-collaborative risk-data-exchange project:
 - https://www.zerofox.com/ (commercial company)
 - https://developers.facebook.com/products/threat-exchange (by fb)
 
+#### sec / privacy
+- https://haveibeenpwned.com/
+
 #### when all else fails, call:
 - https://layeraleph.com/ (mikeyd@)
 
