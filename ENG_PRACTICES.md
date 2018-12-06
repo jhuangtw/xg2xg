@@ -23,7 +23,8 @@ email lists
 - https://hello.cultureamp.com/subscribe-to-the-people-geekly
 - https://andrewchen.co/
 
-hiring rulbrics
+hiring
+- https://stripe.com/atlas/guides/scaling-eng
 - https://docs.google.com/document/d/1iPw2p90HbEciKpt84JSVwefFnYtkN_W3X9SVV6FtvCg/edit
 - https://docs.google.com/spreadsheets/d/17U5XuQgM1v52niQU-LBrk2j4qaQhcnziuUBCYTA2fMo/pubhtml
 - https://medium.engineering/engineering-interviews-grading-rubric-8b409bec021f
