@@ -54,6 +54,9 @@ industry-collaborative risk-data-exchange project:
 #### sec / privacy
 - https://haveibeenpwned.com/
 
+### Employment Law Compliance
+- https://www.lawroom.com/
+
 #### when all else fails, call:
 - https://layeraleph.com/ (mikeyd@)
 
