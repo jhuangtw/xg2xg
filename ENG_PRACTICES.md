@@ -11,6 +11,10 @@
 - https://www.manager-tools.com/
 - [6 Must Reads for Managers Giving Feedback](http://firstround.com/review/our-6-must-reads-for-managers-to-give-feedback-that-helps-people-grow/)
 
+1:1
+- https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c
+- https://medium.com/@mrabkin/awkward-1-1s-the-art-of-getting-honest-feedback-2843078b2880
+
 books
 - first 90 days
 - high output management
