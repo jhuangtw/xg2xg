@@ -72,7 +72,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | Google Internal  | Google External | Real-World    |
 | -------------|------------ |-------------|
 | prodaccess   |             | [Keymaster](https://github.com/Symantec/keymaster) |
-| prod secrets management | | [knox](https://github.com/pinterest/knox) |
+| prod secrets/identity management | | [knox](https://github.com/pinterest/knox), [SPIFFE](https://spiffe.io/) |
 
 ## IT / Operations
 | Google Internal  |   Real-World  |
