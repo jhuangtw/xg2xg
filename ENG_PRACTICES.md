@@ -36,6 +36,7 @@ hiring
 
 #### secops
 - https://sudo.pagerduty.com/
+- [vendor sec assessment](https://blogs.dropbox.com/tech/2019/03/towards-better-vendor-security-assessments/)
 
 #### devops
 - [google SRE book](https://landing.google.com/sre/book/index.html)
