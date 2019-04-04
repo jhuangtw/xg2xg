@@ -2,6 +2,7 @@
 
 #### eng management
 - http://randsinrepose.com/
+- https://lethain.com
 - https://rework.withgoogle.com/
 - https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/
 - https://rework.withgoogle.com/print/guides/5721312655835136/
@@ -10,6 +11,9 @@
 - [Manager READMEs](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
 - https://www.manager-tools.com/
 - [6 Must Reads for Managers Giving Feedback](http://firstround.com/review/our-6-must-reads-for-managers-to-give-feedback-that-helps-people-grow/)
+
+frameworks
+- situational leadership (kenblanchard)
 
 1:1
 - https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c
