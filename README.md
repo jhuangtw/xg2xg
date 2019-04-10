@@ -1,4 +1,4 @@
-A handy lookup table of similar technology and services to help ex-googlers survive the *real* world :)  
+A handy lookup table of similar technology and services to help ex-googlers survive the *real* world :)
 pull-requests very welcomed. __Please do not list any confidential projects!__
 
 For a working example of (some) of these technologies integrated together, see:
@@ -93,3 +93,4 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 also check out [xoogler.co](http://xoogler.co/), which organizes events, slack channels etc
 
 *disclaimer: I'm not affiliated with any of the technologies mentioned above.*
+*disclaimer: I left Google a number of years ago so some of the naming might be dated*
