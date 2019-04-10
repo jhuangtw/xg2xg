@@ -45,7 +45,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | Google Internal  | Google External | Open Source | SaaS |
 | -------------|------------ |-------------|-------------|
 | Dremel       |   [bigquery](https://cloud.google.com/bigquery/)     | Apache Drill, [Presto](https://prestodb.io), Spark(sort-of), | AWS Athena, [Redshift Spectrum](https://aws.amazon.com/redshift/spectrum/) |
-| Dremel UI    |             | [Redash](https://github.com/getredash/redash) | |
+| Dremel UI    |             | [Redash](https://github.com/getredash/redash), [Metabase](https://github.com/metabase/metabase) | |
 | Search (Mustang, Alexandria) |             | Elasticsearch, Solr, Lucene | [algolia](https://www.algolia.com/) |
 | pubsub | [pubsub](https://cloud.google.com/pubsub/docs/overview) | RabbitMQ, [PubNub](https://www.pubnub.com/) | AWS SQS/SNS |
 | [Flume (Java)](https://ai.google/research/pubs/pub35650) |             | [Apache Crunch](https://crunch.apache.org/) |     |
