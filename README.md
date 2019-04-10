@@ -61,11 +61,11 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | styleguides | [google styleguides](https://github.com/google/styleguide) | [PEP-8](https://www.python.org/dev/peps/pep-0008/), [HoundCI auto-style-reviewer](https://houndci.com/) |
 | blaze test / build / CI | | buildkite, [CircleCI](https://circleci.com), travis, jenkins, gitlabCI |
 | continuous delivery / releasing | | [Spinnaker](https://www.spinnaker.io/), [lambdaCD](http://www.lambda.cd), screwdriver.cd, [CodeShip](https://codeship.com), [shipit-engine](https://github.com/Shopify/shipit-engine), [GoCD](https://www.gocd.org), [AWS CodeDeploy](https://aws.amazon.com/codedeploy/), [Capistrano](http://www.capistranorb.com), [Fabric](http://www.fabfile.org), [ConcourseCI](https://concourse.ci/) | [Convox](https://convox.com/) |
-| borg / borgcfg / gcl || [AWS Cloudformation](https://aws.amazon.com/cloudformation/), Puppet, Chef, Salt, Ansible, [Terraform](https://www.terraform.io), [Jsonnet](http://jsonnet.org/) |
+| borg / borgcfg / gcl || [AWS Cloudformation](https://aws.amazon.com/cloudformation/), Puppet, Chef, Salt, Ansible, [Terraform](https://www.terraform.io), [Jsonnet](http://jsonnet.org/), [kubecfg](https://github.com/bitnami/kubecfg) |
 | logging |[StackDriver](https://cloud.google.com/stackdriver/)| logstash, fluentd, papertrail, [cernan](https://github.com/postmates/cernan) |
 | CodeSearch   | [Zoekt](https://github.com/google/zoekt) | [Sourcegraph](https://sourcegraph.com) |
 | Gerrit, Mondrian etc. | [Gerrit](https://www.gerritcodereview.com/) | [Reviewable](https://reviewable.io) |
-| cider |  | [Eclipse Che](https://www.eclipse.org/che/), Cloud9 |
+| cider |  | [Eclipse Che](https://www.eclipse.org/che/), Cloud9, [gitpod.io](https://gitpod.io) |
 | buganizer | | JIRA, bugzilla, github issues |
 | ToTT | [Google Test Blog](https://testing.googleblog.com/) | |
 
