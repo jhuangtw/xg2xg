@@ -15,7 +15,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | MapReduce         |     | [Apache Hadoop](https://github.com/apache/hadoop), [Spark](https://github.com/apache/spark)  |
 | Protocol Buffer   | [Protobuf](https://github.com/google/protobuf)    | [Cap'n Proto](https://capnproto.org/), [Thrift](https://github.com/apache/thrift), [Avro](https://github.com/apache/avro), [Amazon Ion](https://amzn.github.io/ion-docs/)    |
 | Stubby | [gRPC](https://github.com/grpc/grpc) | Bolt, [Thrift](https://github.com/apache/thrift) |
-| Chubby            |      | [Apache Zookeeper](https://github.com/apache/zookeeper), [etcd](https://github.com/coreos/etcd), [Consul](https://www.consul.io/)      |
+| Chubby            |      | [Apache Zookeeper](https://github.com/apache/zookeeper), [etcd](https://github.com/coreos/etcd), [HashiCorp Consul](https://github.com/hashicorp/consul)      |
 | ? | | [Apache Kafka](https://github.com/apache/kafka), [Apache Pulsar](https://github.com/apache/incubator-pulsar) |
 
 
@@ -23,7 +23,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 
 | Google Internal   | Google External   |  Open Source / Real-World  |
 | -------------     |  -------------       |-------------  |
-| Borg              |  | [Kubernetes](https://kubernetes.io/), [Apache Mesos](https://github.com/apache/mesos) |
+| Borg              |  | [Kubernetes](https://kubernetes.io/), [Apache Mesos](https://github.com/apache/mesos), [HashiCorp Nomad](https://github.com/hashicorp/nomad) |
 | GSLB (load balancer)| | ELB, [HAProxy](http://www.haproxy.org/), [Istio](https://istio.io/), [F5](https://f5.com/products/big-ip), [envoy](https://github.com/lyft/envoy) |
 | data center hardware | [open compute](http://www.opencompute.org/) |  |
 
