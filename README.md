@@ -69,10 +69,10 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | ToTT                            | [Google Test Blog](https://testing.googleblog.com/) |                                          |
 
 ### Security
-| Google Internal                  | Google External | Real-World                               |
+| Google Internal                  | Google External | Open Source                              |
 | -------------------------------- | --------------- | ---------------------------------------- |
 | prodaccess                       |                 | [Keymaster](https://github.com/Symantec/keymaster) |
-| prod secrets/identity management |                 | [knox](https://github.com/pinterest/knox), [SPIFFE](https://spiffe.io/) |
+| prod secrets/identity management |                 | [chamber](https://github.com/segmentio/chamber), [knox](https://github.com/pinterest/knox), [SPIFFE](https://spiffe.io/) |
 
 ## IT / Operations
 | Google Internal                          | Real-World                               |
