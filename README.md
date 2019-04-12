@@ -44,7 +44,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 
 | Google Internal  | Google External | Open Source | SaaS |
 | -------------|------------ |-------------|-------------|
-| Dremel       |   [bigquery](https://cloud.google.com/bigquery/)     | Apache Drill, [Presto](https://prestodb.io), Spark(sort-of), | AWS Athena, [Redshift Spectrum](https://aws.amazon.com/redshift/spectrum/) |
+| Dremel       |   [BigQuery](https://cloud.google.com/bigquery/)     | Apache Drill, [Presto](https://prestodb.io), Spark(sort-of), | AWS Athena, [Redshift Spectrum](https://aws.amazon.com/redshift/spectrum/) |
 | Dremel UI    |             | [Redash](https://github.com/getredash/redash), [Metabase](https://github.com/metabase/metabase) | |
 | Search (Mustang, Alexandria) |             | Elasticsearch, Solr, Lucene | [algolia](https://www.algolia.com/) |
 | pubsub | [pubsub](https://cloud.google.com/pubsub/docs/overview) | [NATS.io](https://nats.io), RabbitMQ, [PubNub](https://www.pubnub.com/) | AWS SQS/SNS, [AWS AppSync](https://aws.amazon.com/appsync) |
@@ -59,8 +59,8 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | varz/borgmon | | [Datadog](https://www.datadoghq.com/), [Prometheus](https://prometheus.io), [librato](https://www.librato.com), [newrelic](http://newrelic.com), skylight, scout, [Scotty](https://github.com/Symantec/scotty)/[tricorder](https://github.com/Symantec/tricorder), also [this](https://vimeo.com/173610242) and [this](https://prometheus.io/docs/introduction/comparison/) |
 | Exception/Error Tracking (??) | | Sentry.io, Raygun.io, [Rollbar](https://rollbar.com), Honeybadger, Airbrake, OverOps |
 | styleguides | [google styleguides](https://github.com/google/styleguide) | [PEP-8](https://www.python.org/dev/peps/pep-0008/), [HoundCI auto-style-reviewer](https://houndci.com/) |
-| blaze test / build / CI | | buildkite, [CircleCI](https://circleci.com), travis, jenkins, gitlabCI |
-| continuous delivery / releasing | | [Spinnaker](https://www.spinnaker.io/), [lambdaCD](http://www.lambda.cd), screwdriver.cd, [CodeShip](https://codeship.com), [shipit-engine](https://github.com/Shopify/shipit-engine), [GoCD](https://www.gocd.org), [AWS CodeDeploy](https://aws.amazon.com/codedeploy/), [Capistrano](http://www.capistranorb.com), [Fabric](http://www.fabfile.org), [ConcourseCI](https://concourse.ci/) | [Convox](https://convox.com/) |
+| blaze test / build / CI | [Cloud Build](https://cloud.google.com/cloud-build/) | buildkite, [CircleCI](https://circleci.com), travis, jenkins, gitlabCI |
+| continuous delivery / releasing | [Spinnaker](https://www.spinnaker.io/) | [lambdaCD](http://www.lambda.cd), screwdriver.cd, [CodeShip](https://codeship.com), [shipit-engine](https://github.com/Shopify/shipit-engine), [GoCD](https://www.gocd.org), [AWS CodeDeploy](https://aws.amazon.com/codedeploy/), [Capistrano](http://www.capistranorb.com), [Fabric](http://www.fabfile.org), [ConcourseCI](https://concourse.ci/) | [Convox](https://convox.com/) |
 | borg / borgcfg / gcl || [AWS Cloudformation](https://aws.amazon.com/cloudformation/), Puppet, Chef, Salt, Ansible, [Terraform](https://www.terraform.io), [Jsonnet](http://jsonnet.org/), [kubecfg](https://github.com/bitnami/kubecfg) |
 | logging |[StackDriver](https://cloud.google.com/stackdriver/)| logstash, fluentd, papertrail, [cernan](https://github.com/postmates/cernan) |
 | CodeSearch   | [Zoekt](https://github.com/google/zoekt) | [Sourcegraph](https://sourcegraph.com), [OpenGrok](https://github.com/OpenGrok/OpenGrok/) |
