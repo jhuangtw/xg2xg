@@ -48,6 +48,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | Search (Mustang, Alexandria)             |                                          | Elasticsearch, Solr, Lucene              | [algolia](https://www.algolia.com/)      |
 | pubsub                                   | [pubsub](https://cloud.google.com/pubsub/docs/overview) | [NATS.io](https://nats.io), RabbitMQ, [PubNub](https://www.pubnub.com/) | AWS SQS/SNS, [AWS AppSync](https://aws.amazon.com/appsync) |
 | [Flume (Java)](https://ai.google/research/pubs/pub35650) | [Apache Beam](https://beam.apache.org/)  | [Apache Crunch](https://crunch.apache.org/) |                                          |
+| [MillWheel](https://ai.google/research/pubs/pub41378) | [Cloud Dataflow](https://cloud.google.com/dataflow/) | [Apache Flink](https://flink.apache.org/) |                |
 
 ### DevOps
 | Google Internal                 | Google External                          | Real-World                               |
