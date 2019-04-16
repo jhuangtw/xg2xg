@@ -38,6 +38,13 @@ hiring
 - https://medium.engineering/engineering-interviews-grading-rubric-8b409bec021f
 - https://hbr.org/2016/02/a-scorecard-for-making-better-hiring-decisions
 
+meetings / facilitation
+- http://www.debonogroup.com/six_thinking_hats.php
+- [gCal speedy meetings setting](https://www.bettercloud.com/monitor/the-academy/efficient-effective-meetings-google-calendar/)
+- https://www.nytimes.com/2015/02/08/opinion/sunday/sheryl-sandberg-and-adam-grant-on-women-doing-office-housework.html
+- https://courses.lumenlearning.com/introductiontocommunication/chapter/groups-roles/
+
+
 #### secops
 - https://sudo.pagerduty.com/
 - [vendor sec assessment](https://blogs.dropbox.com/tech/2019/03/towards-better-vendor-security-assessments/)
