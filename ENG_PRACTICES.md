@@ -3,6 +3,7 @@
 #### eng management
 - http://randsinrepose.com/
 - https://lethain.com
+- https://medium.com/the-year-of-the-looking-glass
 - https://rework.withgoogle.com/
 - https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/
 - https://rework.withgoogle.com/print/guides/5721312655835136/
