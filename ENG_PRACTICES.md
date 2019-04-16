@@ -46,9 +46,10 @@ meetings / facilitation
 - https://courses.lumenlearning.com/introductiontocommunication/chapter/groups-roles/
 
 
-#### secops
+#### secops, privacy
 - https://sudo.pagerduty.com/
 - [vendor sec assessment](https://blogs.dropbox.com/tech/2019/03/towards-better-vendor-security-assessments/)
+- https://haveibeenpwned.com/
 
 #### devops
 - [google SRE book](https://landing.google.com/sre/book/index.html)
@@ -67,9 +68,6 @@ meetings / facilitation
 industry-collaborative risk-data-exchange project:
 - https://www.zerofox.com/ (commercial company)
 - https://developers.facebook.com/products/threat-exchange (by fb)
-
-#### sec / privacy
-- https://haveibeenpwned.com/
 
 ### Employment Law Compliance
 - https://www.lawroom.com/
