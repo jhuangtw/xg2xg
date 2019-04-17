@@ -24,8 +24,11 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | Google Internal      | Google External                          | Open Source / Real-World                 |
 | -------------------- | ---------------------------------------- | ---------------------------------------- |
 | Borg                 |                                          | [Kubernetes](https://kubernetes.io/), [Apache Mesos](https://github.com/apache/mesos), [HashiCorp Nomad](https://github.com/hashicorp/nomad) |
-| GSLB (load balancer) |                                          | ELB, [HAProxy](http://www.haproxy.org/), [Istio](https://istio.io/), [F5](https://f5.com/products/big-ip), [envoy](https://github.com/lyft/envoy) |
+| GSLB, GFE, Maglev    |                                          | ELB, [HAProxy](http://www.haproxy.org/), [Istio](https://istio.io/), [F5](https://f5.com/products/big-ip), [envoy](https://github.com/lyft/envoy) |
 | data center hardware | [open compute](http://www.opencompute.org/) |                                          |
+| Jupiter, Starblaze   |                                          |                                             |
+| B4, Stargate, TE     |                                          |                                             |
+| USPS, Andromeda      |                                          |                                             |
 
 
 ### Storage
@@ -56,7 +59,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | Assimilator                     |                                          | [Dominator](https://github.com/Symantec/Dominator) |
 | Blaze                           | [Bazel](https://bazel.build)             | [Buck](https://buckbuild.com/), [Pants](https://www.pantsbuild.org/), [please.build](https://please.build/), [Blade](https://github.com/chen3feng/blade-build), [recc](https://gitlab.com/bloomberg/recc) |
 | Oncall                          |                                          | [PagerDuty](https://pagerduty.com), [OpsGenie](https://www.opsgenie.com/), [VictorOps](https://victorops.com/) |
-| varz/borgmon                    |                                          | [Datadog](https://www.datadoghq.com/), [Prometheus](https://prometheus.io), [librato](https://www.librato.com), [newrelic](http://newrelic.com), skylight, scout, [Scotty](https://github.com/Symantec/scotty)/[tricorder](https://github.com/Symantec/tricorder), also [this](https://vimeo.com/173610242) and [this](https://prometheus.io/docs/introduction/comparison/) |
+| varz/borgmon/monarch            |                                          | [Datadog](https://www.datadoghq.com/), [Prometheus](https://prometheus.io), [librato](https://www.librato.com), [newrelic](http://newrelic.com), skylight, scout, [Scotty](https://github.com/Symantec/scotty)/[tricorder](https://github.com/Symantec/tricorder), also [this](https://vimeo.com/173610242) and [this](https://prometheus.io/docs/introduction/comparison/) |
 | Exception/Error Tracking (??)   |                                          | Sentry.io, Raygun.io, [Rollbar](https://rollbar.com), Honeybadger, Airbrake, OverOps |
 | styleguides                     | [google styleguides](https://github.com/google/styleguide) | [PEP-8](https://www.python.org/dev/peps/pep-0008/), [HoundCI auto-style-reviewer](https://houndci.com/) |
 | blaze test / build / CI         | [Cloud Build](https://cloud.google.com/cloud-build/) | buildkite, [CircleCI](https://circleci.com), travis, jenkins, gitlabCI |
@@ -64,7 +67,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | borg / borgcfg / gcl            |                                          | [AWS Cloudformation](https://aws.amazon.com/cloudformation/), Puppet, Chef, Salt, Ansible, [Terraform](https://www.terraform.io), [Jsonnet](http://jsonnet.org/), [kubecfg](https://github.com/bitnami/kubecfg) |
 | logging                         | [StackDriver](https://cloud.google.com/stackdriver/) | logstash, fluentd, papertrail, [cernan](https://github.com/postmates/cernan) |
 | CodeSearch                      | [Zoekt](https://github.com/google/zoekt) | [Sourcegraph](https://sourcegraph.com), [OpenGrok](https://github.com/OpenGrok/OpenGrok/) |
-| Gerrit, Mondrian etc.           | [Gerrit](https://www.gerritcodereview.com/) | [Reviewable](https://reviewable.io)      |
+| Critique, Gerrit, Mondrian etc. | [Gerrit](https://www.gerritcodereview.com/) | [Reviewable](https://reviewable.io)      |
 | cider                           |                                          | [Eclipse Che](https://www.eclipse.org/che/), [Cloud9](https://c9.io/), [gitpod.io](https://gitpod.io) |
 | buganizer                       |                                          | [JIRA](https://www.atlassian.com/software/jira), [bugzilla](https://www.bugzilla.org/), github issues |
 | ToTT                            | [Google Test Blog](https://testing.googleblog.com/) |                                          |
@@ -72,7 +75,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 ### Security
 | Google Internal                  | Google External | Open Source                              |
 | -------------------------------- | --------------- | ---------------------------------------- |
-| prodaccess                       |                 | [Keymaster](https://github.com/Symantec/keymaster) |
+| prodaccess/LOAS                  |                 | [Keymaster](https://github.com/Symantec/keymaster) |
 | prod secrets/identity management |                 | [chamber](https://github.com/segmentio/chamber), [knox](https://github.com/pinterest/knox), [SPIFFE](https://spiffe.io/) |
 
 ## IT / Operations
