@@ -3,6 +3,7 @@
 #### eng management
 - http://randsinrepose.com/
 - https://lethain.com
+- https://medium.com/the-year-of-the-looking-glass
 - https://rework.withgoogle.com/
 - https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/
 - https://rework.withgoogle.com/print/guides/5721312655835136/
@@ -38,9 +39,21 @@ hiring
 - https://medium.engineering/engineering-interviews-grading-rubric-8b409bec021f
 - https://hbr.org/2016/02/a-scorecard-for-making-better-hiring-decisions
 
-#### secops
+meetings / facilitation
+- http://www.debonogroup.com/six_thinking_hats.php
+- [gCal speedy meetings setting](https://www.bettercloud.com/monitor/the-academy/efficient-effective-meetings-google-calendar/)
+- https://www.nytimes.com/2015/02/08/opinion/sunday/sheryl-sandberg-and-adam-grant-on-women-doing-office-housework.html
+- https://courses.lumenlearning.com/introductiontocommunication/chapter/groups-roles/
+
+
+#### secops, privacy
 - https://sudo.pagerduty.com/
 - [vendor sec assessment](https://blogs.dropbox.com/tech/2019/03/towards-better-vendor-security-assessments/)
+- https://haveibeenpwned.com/
+- compliance vendors:
+  - coalfire, a-lign, armanino, ncc group
+- pentest vendors:
+  - https://www.includesecurity.com/
 
 #### devops
 - [google SRE book](https://landing.google.com/sre/book/index.html)
@@ -59,9 +72,6 @@ hiring
 industry-collaborative risk-data-exchange project:
 - https://www.zerofox.com/ (commercial company)
 - https://developers.facebook.com/products/threat-exchange (by fb)
-
-#### sec / privacy
-- https://haveibeenpwned.com/
 
 ### Employment Law Compliance
 - https://www.lawroom.com/
