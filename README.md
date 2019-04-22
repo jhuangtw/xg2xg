@@ -72,6 +72,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | cider                           |                                          | [Eclipse Che](https://www.eclipse.org/che/), [Cloud9](https://c9.io/), [gitpod.io](https://gitpod.io) |
 | buganizer                       |                                          | [JIRA](https://www.atlassian.com/software/jira), [bugzilla](https://www.bugzilla.org/), github issues |
 | ToTT                            | [Google Test Blog](https://testing.googleblog.com/) |                                          |
+| Copybara                        | [Copybara](https://github.com/google/copybara)      |                                          |
 
 ### Security
 | Google Internal                  | Google External | Open Source                              |
