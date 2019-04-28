@@ -92,6 +92,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | googlegeist                              | [Culture Amp](https://www.cultureamp.com/), [humu](http://www.humu.com/) |
 | stuff (SaaS IT management)               | [intello](https://www.intello.io/), [zylo](https://zylo.com/) |
 | stuff (Device Management)                | [Fleetsmith](https://www.fleetsmith.com/), [jamf](https://www.jamf.com/), [rippling IT](https://www.rippling.com/it/) |
+| device security monitoring               | [Red Canary](https://redcanary.com/) |
 | go/ links                                | [golinks](https://www.golinks.io/), [go](https://github.com/kellegous/go), [Goat](https://goatcodes.com/) |
 
 also check out [xoogler.co](http://xoogler.co/), which organizes events, slack channels etc
