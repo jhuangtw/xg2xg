@@ -86,3 +86,6 @@ industry-collaborative risk-data-exchange project:
 ##### design/marketing/uiux
 - https://fuzzco.com/
 - http://omstudio.co/
+##### recruiting
+- https://www.bincsearch.com/
+- https://rivierapartners.com/
