@@ -75,6 +75,7 @@ industry-collaborative risk-data-exchange project:
 
 ### Employment Law Compliance
 - https://www.lawroom.com/
+- https://www.lifetheatre.com/training-topics/
 
 #### when all else fails, call:
 - https://layeraleph.com/ (mikeyd@)
