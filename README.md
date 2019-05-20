@@ -90,6 +90,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | memegen                                  | [memegen](http://www.memegen.com/)       |
 | edge, people ops training                | [LifeLabs](http://lifelabsnewyork.com/)  |
 | googlegeist                              | [Culture Amp](https://www.cultureamp.com/), [humu](http://www.humu.com/), [tinypulse](https://www.tinypulse.com/), [peakon](https://peakon.com/) |
+| HRIS                                     | Namely, Gusto, Workday |
 | stuff (SaaS IT management)               | [intello](https://www.intello.io/), [zylo](https://zylo.com/) |
 | stuff (Device Management)                | [Fleetsmith](https://www.fleetsmith.com/), [jamf](https://www.jamf.com/), [rippling IT](https://www.rippling.com/it/) |
 | device security monitoring               | [Red Canary](https://redcanary.com/) |
