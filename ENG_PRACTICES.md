@@ -54,6 +54,8 @@ meetings / facilitation
   - coalfire, a-lign, armanino, ncc group
 - pentest vendors:
   - https://www.includesecurity.com/
+  - https://cobalt.io/
+  - https://cure53.de/
 
 #### devops
 - [google SRE book](https://landing.google.com/sre/book/index.html)
