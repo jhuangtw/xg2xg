@@ -73,6 +73,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | buganizer                       |                                          | [JIRA](https://www.atlassian.com/software/jira), [bugzilla](https://www.bugzilla.org/), github issues |
 | ToTT                            | [Google Test Blog](https://testing.googleblog.com/) |                                          |
 | Copybara / MOE                  | [Copybara](https://github.com/google/copybara), [MOE](https://github.com/google/MOE)  |                                          |
+| workflow/dependency management | | luigi, airflow, digdag, packyderm, dask |
 
 ### Security
 | Google Internal                  | Google External | Open Source                              |
