@@ -69,7 +69,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | logging                         | [StackDriver](https://cloud.google.com/stackdriver/) | logstash, fluentd, papertrail, [cernan](https://github.com/postmates/cernan) |
 | CodeSearch                      | [Zoekt](https://github.com/google/zoekt) | [Sourcegraph](https://sourcegraph.com), [OpenGrok](https://github.com/OpenGrok/OpenGrok/) |
 | Critique, Gerrit, Mondrian etc. | [Gerrit](https://www.gerritcodereview.com/) | [Reviewable](https://reviewable.io)      |
-| cider                           |                                          | [Eclipse Che](https://www.eclipse.org/che/), [Cloud9](https://c9.io/), [gitpod.io](https://gitpod.io), [Coder](https://coder.com/)|
+| cider                           |                                          | [Eclipse Che](https://www.eclipse.org/che/), [Cloud9](https://c9.io/), [gitpod.io](https://gitpod.io), [Coder](https://coder.com/), [Code-Server (Visual Studio in a Tab)](https://github.com/cdr/code-server)|
 | buganizer                       |                                          | [JIRA](https://www.atlassian.com/software/jira), [bugzilla](https://www.bugzilla.org/), github issues |
 | ToTT                            | [Google Test Blog](https://testing.googleblog.com/) |                                          |
 | Copybara / MOE                  | [Copybara](https://github.com/google/copybara), [MOE](https://github.com/google/MOE)  |                                          |
