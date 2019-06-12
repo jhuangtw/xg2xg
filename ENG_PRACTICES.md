@@ -94,3 +94,6 @@ industry-collaborative risk-data-exchange project:
 
 #### well being
 - https://www.workonwellbeing.com/
+
+#### advisor/founder agreement
+- https://fi.co/fast
