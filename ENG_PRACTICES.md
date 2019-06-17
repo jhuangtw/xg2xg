@@ -50,6 +50,7 @@ meetings / facilitation
 - https://sudo.pagerduty.com/
 - [vendor sec assessment](https://blogs.dropbox.com/tech/2019/03/towards-better-vendor-security-assessments/)
 - https://haveibeenpwned.com/
+- https://developer.github.com/partnerships/token-scanning/
 - compliance vendors:
   - coalfire, a-lign, armanino, ncc group
 - pentest vendors:
