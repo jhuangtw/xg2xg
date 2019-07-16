@@ -75,6 +75,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | Copybara / MOE                  | [Copybara](https://github.com/google/copybara), [MOE](https://github.com/google/MOE)  |                                          |
 | workflow/dependency management | | luigi, airflow, digdag, packyderm, dask |
 | ErrorProne                      | [ErrorProne](https://errorprone.info/)   | [SpotBugs](https://spotbugs.github.io/), [FindBugs](http://findbugs.sourceforge.net/) |
+| dapper (distributed trace) | [stackdriver trace](https://cloud.google.com/trace/) | [zipkin](https://github.com/openzipkin/zipkin), [opentracing](https://opentracing.io/docs/overview/), [jaeger](https://www.jaegertracing.io/) |
 
 ### Security
 | Google Internal                  | Google External | Open Source                              |
