@@ -99,9 +99,8 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | stuff (Device Management)                | [Fleetsmith](https://www.fleetsmith.com/), [jamf](https://www.jamf.com/), [rippling IT](https://www.rippling.com/it/) |
 | device security monitoring               | [Red Canary](https://redcanary.com/) |
 | [go/ links](https://medium.com/@golinks/the-full-history-of-go-links-and-the-golink-system-cbc6d2c8bb3)                                | [golinks](https://www.golinks.io/), [go](https://github.com/kellegous/go), [Goat](https://goatcodes.com/) |
-| sharing 1-time secrets                   | [onetimesecret](https://onetimesecret.com/) |
 | google3 philosophy                       | [innersource](https://resources.github.com/whitepapers/introduction-to-innersource/), [monorepo](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext) |
-| safely sharing secrets                   | [croc](https://github.com/schollz/croc), [onetimesecret](https://github.com/onetimesecret/onetimesecret) |
+| safely sharing 1-time secrets            | [croc](https://github.com/schollz/croc), [onetimesecret](https://github.com/onetimesecret/onetimesecret) |
 
 also check out [xoogler.co](http://xoogler.co/), which organizes events, slack channels etc
 
