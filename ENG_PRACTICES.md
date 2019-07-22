@@ -26,6 +26,7 @@ books
 - hard thing about hard things
 - measure what matters (aka the okr book)
 - sapien
+- an elegant puzzle
 
 email lists
 - https://maleallies.com/
@@ -64,6 +65,9 @@ meetings / facilitation
 
 #### refactoring
 - https://refactoring.guru/
+
+#### development process
+- https://trunkbaseddevelopment.com/
 
 #### papers
 - https://blog.acolyer.org/
