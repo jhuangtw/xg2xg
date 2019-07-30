@@ -29,6 +29,7 @@ books
 - measure what matters (aka the okr book)
 - sapien
 - an elegant puzzle
+- The Five Dysfunctions of a Team: A Leadership Fable
 
 email lists
 - https://maleallies.com/
