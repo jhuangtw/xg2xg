@@ -15,6 +15,7 @@
 
 frameworks
 - situational leadership (kenblanchard)
+- https://firstround.com/review/Keith-Rabois-on-the-role-of-a-COO-how-to-hire-and-why-transparency-matters/
 
 1:1
 - https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c
@@ -49,6 +50,7 @@ meetings / facilitation
 
 
 #### secops, privacy
+- https://www.hackerone.com/blog/security-vendors-startups-lob-cant-live-without
 - https://sudo.pagerduty.com/
 - [vendor sec assessment](https://blogs.dropbox.com/tech/2019/03/towards-better-vendor-security-assessments/)
 - https://haveibeenpwned.com/
