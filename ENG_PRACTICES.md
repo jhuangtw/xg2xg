@@ -31,6 +31,7 @@ books
 - an elegant puzzle
 - The Five Dysfunctions of a Team: A Leadership Fable
 - the phoenix project
+- radical candor
 
 email lists
 - https://maleallies.com/
