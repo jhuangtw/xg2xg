@@ -30,6 +30,7 @@ books
 - sapien
 - an elegant puzzle
 - The Five Dysfunctions of a Team: A Leadership Fable
+- the phoenix project
 
 email lists
 - https://maleallies.com/
