@@ -1,4 +1,4 @@
-### distributed frameworks
+### Distributed Frameworks
 - spark
 - https://github.com/ray-project/ray
 - https://dask.org/
@@ -8,7 +8,7 @@
 - snowflake
 - vertica
 
-### "Data Lake"
+### Data Lake
 - databricks delta
 
 ### Streaming
