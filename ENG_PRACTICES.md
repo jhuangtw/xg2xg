@@ -50,9 +50,12 @@ industry-collaborative risk-data-exchange project:
 #### contracting needs
 ##### eng
 - https://www.10xmanagement.com/
+- https://www.facetdev.com/
+
 ##### design/marketing/uiux
 - https://fuzzco.com/
 - http://omstudio.co/
+
 ##### recruiting
 - https://www.bincsearch.com/
 - https://rivierapartners.com/
