@@ -53,6 +53,7 @@ Books
 - The Five Dysfunctions of a Team: A Leadership Fable
 - the phoenix project
 - radical candor
+- High Growth Handbook
 
 Reading
 - http://randsinrepose.com/
