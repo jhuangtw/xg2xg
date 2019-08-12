@@ -10,6 +10,10 @@ understanding self/team
 - Enneagram
 - [Standout](https://www.tmbc.com/standout-2-0-assessment/)
 
+career convo
+- https://www.cultureamp.com/blog/letting-go-of-our-best-employees/
+- ikigai
+
 hiring
 - https://remotive.io/remote-companies
 - https://stripe.com/atlas/guides/scaling-eng
