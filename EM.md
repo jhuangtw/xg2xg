@@ -4,6 +4,7 @@ Engineering Management
 
 understanding self/team
 - [Myers-Briggs](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator)
+- https://www.jocrf.org/
 - [StrengthsFinder](https://www.amazon.com/StrengthsFinder-2-0-Tom-Rath/dp/159562015X)
 - DISC assessment
 - [Adjective Check List](https://en.wikipedia.org/wiki/Adjective_Check_List)
