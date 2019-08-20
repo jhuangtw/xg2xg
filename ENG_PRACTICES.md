@@ -30,6 +30,10 @@ email lists
 #### refactoring
 - https://refactoring.guru/
 
+#### code quality / style
+- https://prettier.io/
+- https://github.com/google/code-prettify
+
 #### development process
 - https://trunkbaseddevelopment.com/
 
