@@ -19,6 +19,10 @@ email lists
   - https://cobalt.io/
   - https://cure53.de/
 
+#### compliance
+- https://github.com/pivotal/LicenseFinder
+- https://github.com/AlDanial/cloc
+
 #### devops
 - [google SRE book](https://landing.google.com/sre/book/index.html)
 - https://github.com/etsy/DebriefingFacilitationGuide
