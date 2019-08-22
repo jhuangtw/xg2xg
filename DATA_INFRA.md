@@ -21,6 +21,10 @@
 - https://zeppelin.apache.org/
 - https://github.com/ironmussa/Optimus
 
+### labeling
+- https://www.figure-eight.com/
+- https://www.labelbox.com
+
 ### Orchistration
 - airflow
 - luigi
@@ -32,4 +36,3 @@
 - https://www.ascend.io/
 - https://www.datmo.com/
 - TFX-OSS
-- https://www.datmo.com/
