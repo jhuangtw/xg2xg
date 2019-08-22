@@ -13,6 +13,7 @@
 
 ### Streaming
 - kafka
+- flink
 - beam
 
 ### Notebooks / exploration
