@@ -15,6 +15,11 @@ career convo
 - https://www.cultureamp.com/blog/letting-go-of-our-best-employees/
 - ikigai
 
+mentors on-call
+- https://app.workbravely.com/
+- https://www.platohq.com/
+- https://www.codementor.io/
+
 hiring
 - https://remotive.io/remote-companies
 - https://stripe.com/atlas/guides/scaling-eng
