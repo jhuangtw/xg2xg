@@ -23,6 +23,7 @@
 
 ### labeling
 - https://www.figure-eight.com/
+- https://scale.ai
 - https://www.labelbox.com
 
 ### Orchistration
