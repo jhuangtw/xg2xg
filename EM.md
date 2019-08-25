@@ -15,6 +15,9 @@ career convo
 - https://www.cultureamp.com/blog/letting-go-of-our-best-employees/
 - ikigai
 
+retention
+- stay interview
+
 mentors on-call
 - https://app.workbravely.com/
 - https://www.platohq.com/
