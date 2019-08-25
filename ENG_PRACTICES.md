@@ -18,6 +18,7 @@ email lists
   - https://www.includesecurity.com/
   - https://cobalt.io/
   - https://cure53.de/
+- https://application.security/
 
 #### compliance
 - https://github.com/pivotal/LicenseFinder
