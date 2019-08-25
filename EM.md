@@ -2,7 +2,7 @@ Engineering Management
 
 ### People
 
-understanding self/team
+#### understanding self/team
 - [Myers-Briggs](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator)
 - https://www.jocrf.org/
 - [StrengthsFinder](https://www.amazon.com/StrengthsFinder-2-0-Tom-Rath/dp/159562015X)
@@ -11,50 +11,62 @@ understanding self/team
 - Enneagram
 - [Standout](https://www.tmbc.com/standout-2-0-assessment/)
 
-career convo
+#### career convo
 - https://www.cultureamp.com/blog/letting-go-of-our-best-employees/
 - ikigai
 
-retention
+#### retention
 - stay interview
 
-mentors on-call
+#### mentors on-call
 - https://app.workbravely.com/
 - https://www.platohq.com/
 - https://www.codementor.io/
 
-hiring
+#### hiring
 - https://stripe.com/atlas/guides/scaling-eng
 - [[CloserIQ] Sales Interview Grading Template : Sample](https://docs.google.com/document/d/1iPw2p90HbEciKpt84JSVwefFnYtkN_W3X9SVV6FtvCg/edit)
 - [Google’s sample structured interview grading rubric](https://docs.google.com/spreadsheets/d/17U5XuQgM1v52niQU-LBrk2j4qaQhcnziuUBCYTA2fMo/pubhtml)
 - https://medium.engineering/engineering-interviews-grading-rubric-8b409bec021f
 - https://hbr.org/2016/02/a-scorecard-for-making-better-hiring-decisions
 
-hiring remote
+##### hiring remote
 - https://remotive.io/remote-companies
 - https://terminal.io/
+
+##### recruiting
+- https://www.bincsearch.com/
+
+##### executive recruiting
+- https://rivierapartners.com/
+- https://www.daversapartners.com/
+
+##### contract eng
+- https://www.10xmanagement.com/
+- https://www.facetdev.com/
+
 
 
 ### Process
 
-1:1s
+#### 1:1s
 - https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c
 - https://medium.com/@mrabkin/awkward-1-1s-the-art-of-getting-honest-feedback-2843078b2880
 
-meetings / facilitation
+#### meetings / facilitation
 - http://www.debonogroup.com/six_thinking_hats.php
 - [gCal speedy meetings setting](https://www.bettercloud.com/monitor/the-academy/efficient-effective-meetings-google-calendar/)
 - https://www.nytimes.com/2015/02/08/opinion/sunday/sheryl-sandberg-and-adam-grant-on-women-doing-office-housework.html
 - https://courses.lumenlearning.com/introductiontocommunication/chapter/groups-roles/
 
-frameworks
+#### frameworks
 - situational leadership (kenblanchard)
 - https://firstround.com/review/Keith-Rabois-on-the-role-of-a-COO-how-to-hire-and-why-transparency-matters/
 
 
 ### Resources
 
-Books
+#### Books
 - first 90 days
 - managing humans
 - high output management
@@ -68,7 +80,7 @@ Books
 - High Growth Handbook
 - The Manager's Path
 
-Reading
+#### Reading
 - http://randsinrepose.com/
 - https://lethain.com
 - https://medium.com/the-year-of-the-looking-glass
