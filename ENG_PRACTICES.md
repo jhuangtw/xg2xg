@@ -56,18 +56,9 @@ industry-collaborative risk-data-exchange project:
 #### when all else fails, call:
 - https://layeraleph.com/ (mikeyd@)
 
-#### contracting needs
-##### eng
-- https://www.10xmanagement.com/
-- https://www.facetdev.com/
-
 ##### design/marketing/uiux
 - https://fuzzco.com/
 - http://omstudio.co/
-
-##### recruiting
-- https://www.bincsearch.com/
-- https://rivierapartners.com/
 
 #### well being
 - https://www.workonwellbeing.com/
