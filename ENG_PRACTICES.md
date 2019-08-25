@@ -26,6 +26,7 @@ email lists
 
 #### devops
 - [google SRE book](https://landing.google.com/sre/book/index.html)
+- getting infra-as-code off the ground (terraform): https://gruntwork.io/
 - https://github.com/etsy/DebriefingFacilitationGuide
 
 #### refactoring
