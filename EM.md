@@ -21,12 +21,15 @@ mentors on-call
 - https://www.codementor.io/
 
 hiring
-- https://remotive.io/remote-companies
 - https://stripe.com/atlas/guides/scaling-eng
 - https://docs.google.com/document/d/1iPw2p90HbEciKpt84JSVwefFnYtkN_W3X9SVV6FtvCg/edit
 - https://docs.google.com/spreadsheets/d/17U5XuQgM1v52niQU-LBrk2j4qaQhcnziuUBCYTA2fMo/pubhtml
 - https://medium.engineering/engineering-interviews-grading-rubric-8b409bec021f
 - https://hbr.org/2016/02/a-scorecard-for-making-better-hiring-decisions
+
+hiring remote
+- https://remotive.io/remote-companies
+- https://terminal.io/
 
 
 ### Process
