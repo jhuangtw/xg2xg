@@ -12,6 +12,8 @@
 - [Standout](https://www.tmbc.com/standout-2-0-assessment/)
 
 #### career convo
+- https://www.radicalcandor.com/blog/problem-career-conversations/
+- https://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/
 - https://www.cultureamp.com/blog/letting-go-of-our-best-employees/
 - ikigai
 
