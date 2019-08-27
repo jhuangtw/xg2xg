@@ -11,6 +11,11 @@
 ### Data Lake
 - databricks delta
 
+### change data capture / streaming
+- https://www.attunity.com/
+- https://streamsets.com/
+- https://github.com/debezium/debezium
+
 ### Streaming
 - kafka
 - flink
