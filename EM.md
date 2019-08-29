@@ -36,6 +36,11 @@
 - https://remotive.io/remote-companies
 - https://terminal.io/
 
+##### hiring/interviewing-as-a-service
+- https://karat.com/
+- https://hired.com/
+- https://interviewing.io/
+
 ##### hiring from referrals
 - https://www.teamable.com/
 
@@ -84,6 +89,7 @@
 - radical candor
 - High Growth Handbook
 - The Manager's Path
+- The Messy Middle
 
 #### Reading
 - http://randsinrepose.com/
