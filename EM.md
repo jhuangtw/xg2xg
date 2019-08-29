@@ -32,9 +32,11 @@
 - https://medium.engineering/engineering-interviews-grading-rubric-8b409bec021f
 - https://hbr.org/2016/02/a-scorecard-for-making-better-hiring-decisions
 
-##### hiring remote
+##### hiring distributed teams
 - https://remotive.io/remote-companies
 - https://terminal.io/
+- https://arc.dev/
+- https://github.com/lukasz-madon/awesome-remote-job
 
 ##### hiring/interviewing-as-a-service
 - https://karat.com/
