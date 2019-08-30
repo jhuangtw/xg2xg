@@ -43,5 +43,9 @@
 - https://www.datmo.com/
 - TFX-OSS
 
+### a/b testing
+- https://www.optimizely.com/
+- https://github.com/YahooArchive/mendel
+
 ### books
 - [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
