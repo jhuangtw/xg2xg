@@ -27,6 +27,7 @@
 - https://github.com/ironmussa/Optimus
 
 ### labeling
+- https://www.snorkel.org/
 - https://www.figure-eight.com/
 - https://scale.ai
 - https://www.labelbox.com
