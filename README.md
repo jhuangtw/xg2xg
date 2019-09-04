@@ -24,7 +24,8 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | Google Internal      | Google External                          | Open Source / Real-World                 |
 | -------------------- | ---------------------------------------- | ---------------------------------------- |
 | Borg                 |                                          | [Kubernetes](https://kubernetes.io/), [Apache Mesos](https://github.com/apache/mesos), [HashiCorp Nomad](https://github.com/hashicorp/nomad) |
-| GSLB, GFE, Maglev    |                                          | ELB, [HAProxy](http://www.haproxy.org/), [Istio](https://istio.io/), [F5](https://f5.com/products/big-ip), [envoy](https://github.com/lyft/envoy) |
+| GSLB, GFE, Maglev, uberproxy  |                | ELB, [HAProxy](http://www.haproxy.org/), [Istio](https://istio.io/), [F5](https://f5.com/products/big-ip), [envoy](https://github.com/lyft/envoy) |
+| uberproxy (sso proxy) | [buzzfeed-sso](https://github.com/buzzfeed/sso) |
 | data center hardware | [open compute](http://www.opencompute.org/) |                                          |
 | Jupiter, Starblaze   |                                          |                                             |
 | B4, Stargate, TE     |                                          |                                             |
