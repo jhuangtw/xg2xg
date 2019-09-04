@@ -48,5 +48,10 @@
 - https://www.optimizely.com/
 - https://github.com/YahooArchive/mendel
 
+### BI
+- [superset](https://superset.incubator.apache.org/)
+- looker
+- periscope
+
 ### books
 - [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
