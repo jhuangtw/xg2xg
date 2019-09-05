@@ -57,7 +57,7 @@ industry-collaborative risk-data-exchange project:
 #### when all else fails, call:
 - https://layeraleph.com/ (mikeyd@)
 
-##### design/marketing/uiux
+#### design/marketing/uiux
 - https://fuzzco.com/
 - http://omstudio.co/
 
@@ -66,3 +66,6 @@ industry-collaborative risk-data-exchange project:
 
 #### advisor/founder agreement
 - https://fi.co/fast
+
+### other random stuff
+- https://asciinema.org
