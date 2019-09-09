@@ -36,6 +36,9 @@ email lists
 - https://prettier.io/
 - https://github.com/google/code-prettify
 
+#### doing code review
+- https://google.github.io/eng-practices/review/reviewer/
+
 #### development process
 - https://trunkbaseddevelopment.com/
 
