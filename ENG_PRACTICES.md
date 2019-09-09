@@ -1,3 +1,5 @@
+also https://github.com/google/eng-practices
+
 ### Misc Resources
 
 email lists
