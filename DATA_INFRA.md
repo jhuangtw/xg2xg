@@ -49,6 +49,7 @@
 - https://github.com/YahooArchive/mendel
 
 ### catalogue
+- https://github.com/airbnb/knowledge-repo
 - https://github.com/lyft/amundsen
 
 ### BI
