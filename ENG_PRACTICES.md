@@ -21,6 +21,7 @@ email lists
   - https://cobalt.io/
   - https://cure53.de/
 - https://application.security/
+- https://snyk.io/
 
 #### compliance
 - https://github.com/pivotal/LicenseFinder
