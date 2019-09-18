@@ -92,6 +92,7 @@
 - High Growth Handbook
 - The Manager's Path
 - The Messy Middle
+- https://medium.com/range/leadership-reading-list-951c5ccb4370
 
 #### Reading
 - http://randsinrepose.com/
