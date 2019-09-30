@@ -91,6 +91,7 @@
 - radical candor
 - High Growth Handbook
 - The Manager's Path
+- Dare to Lead
 - The Messy Middle
 - https://medium.com/range/leadership-reading-list-951c5ccb4370
 
