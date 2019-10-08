@@ -8,7 +8,7 @@
 - [StrengthsFinder](https://www.amazon.com/StrengthsFinder-2-0-Tom-Rath/dp/159562015X)
 - DISC assessment
 - [Adjective Check List](https://en.wikipedia.org/wiki/Adjective_Check_List)
-- Enneagram
+- [Enneagram](https://www.integrative9.com/)
 - [Standout](https://www.tmbc.com/standout-2-0-assessment/)
 
 #### career convo
