@@ -108,6 +108,8 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | safely sharing 1-time secrets            | [croc](https://github.com/schollz/croc), [onetimesecret](https://github.com/onetimesecret/onetimesecret), [privatebin](https://privatebin.info/) |
 | messaging                                | [mattermost](https://github.com/mattermost/mattermost-server), slack, gchat |
 | [peer bonus](https://www.forbes.com/sites/jurgenappelo/2015/07/08/the-peer-to-peer-bonus-system/#33c47ef84329)   | [bonus.ly](https://bonus.ly/), [zestful](https://zestful.com) |
+| kudos  | [heytaco](https://www.heytaco.chat/), [slack ++ bot](https://github.com/tdmalone/working-plusplus/) |
+
 
 also check out [xoogler.co](http://xoogler.co/), which organizes events, slack channels etc
 
