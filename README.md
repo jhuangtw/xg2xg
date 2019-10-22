@@ -42,6 +42,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | ColumnIO / [Capacitor](https://cloud.google.com/blog/big-data/2016/04/inside-capacitor-bigquerys-next-generation-columnar-storage-format) |                                          | [Apache Parquet](http://parquet.apache.org) |
 | sstable                                  | [levelDB](https://github.com/google/leveldb) | [RocksDB](https://rocksdb.org)           |
 | zippy                                    | [Snappy](https://github.com/google/snappy) | [lz4](https://github.com/lz4/lz4)        |
+| RecordIO                                 | [TFRecords](https://github.com/tensorflow/docs/blob/r1.10/site/en/api_guides/python/python_io.md#tfrecords-format-details) | |
 
 
 ### Services
