@@ -1,3 +1,8 @@
+### readings
+- [Machine Learning: The High Interest Credit Card of Technical Debt](https://ai.google/research/pubs/pub43146)
+- [The Care & Feeding of Data Scientists](https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf)
+- [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+
 ### Distributed Frameworks
 - spark
 - https://github.com/ray-project/ray
@@ -59,6 +64,3 @@
 
 ### neat utils
 - query CSVs w/ SQL: [cq](https://github.com/jolmg/cq)
-
-### books
-- [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
