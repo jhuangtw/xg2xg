@@ -17,7 +17,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | Stubby          | [gRPC](https://github.com/grpc/grpc)     | [Thrift](https://github.com/apache/thrift), [Bolt](https://boltprotocol.org/) |
 | Chubby          |                                          | [Apache Zookeeper](https://github.com/apache/zookeeper), [etcd](https://github.com/coreos/etcd), [HashiCorp Consul](https://github.com/hashicorp/consul) |
 | Goops / PubSub  |                                          | [Apache Kafka](https://github.com/apache/kafka), [Apache Pulsar](https://github.com/apache/incubator-pulsar), [Facebook LogDevice](https://github.com/facebookincubator/LogDevice) |
-
+| [Dapper](https://ai.google/research/pubs/pub36356) |       | [OpenTracing](https://opentracing.io/), [LightStep](https://lightstep.com) |
 
 ### Infrastructure
 
