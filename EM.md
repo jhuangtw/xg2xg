@@ -57,6 +57,9 @@
 - https://www.10xmanagement.com/
 - https://www.facetdev.com/
 
+#### layoff lists
+- https://www.layoffs.tech/
+- https://www.onesoftlanding.com/
 
 
 ### Process
