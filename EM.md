@@ -17,6 +17,9 @@
 - https://www.cultureamp.com/blog/letting-go-of-our-best-employees/
 - ikigai
 
+#### team health
+- https://www.atlassian.com/team-playbook/health-monitor
+
 #### retention
 - stay interview
 
