@@ -23,6 +23,9 @@
 #### retention
 - stay interview
 
+#### communication
+- [how to say no](https://www.starterstory.com/how-to-say-no)
+
 #### mentors on-call
 - https://app.workbravely.com/
 - https://www.platohq.com/
