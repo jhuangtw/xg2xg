@@ -66,6 +66,7 @@
 #### layoff lists
 - https://www.layoffs.tech/
 - https://www.onesoftlanding.com/
+- https://candor.co/layoff-list/
 
 
 ### Process
