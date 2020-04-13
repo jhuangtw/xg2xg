@@ -63,7 +63,7 @@
 - https://www.10xmanagement.com/
 - https://www.facetdev.com/
 
-#### layoff lists
+##### layoff lists
 - https://www.layoffs.tech/
 - https://www.onesoftlanding.com/
 - https://candor.co/layoff-list/
