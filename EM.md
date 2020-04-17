@@ -64,6 +64,7 @@
 - https://www.facetdev.com/
 
 ##### layoff lists
+- https://layoffs.fyi/
 - https://www.layoffs.tech/
 - https://www.onesoftlanding.com/
 - https://candor.co/layoff-list/
