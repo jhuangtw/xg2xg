@@ -41,6 +41,7 @@
 - airflow
 - luigi
 - https://github.com/dagster-io/dagster
+- https://github.com/nteract/papermill
 
 ### solutions
 - snowplow
