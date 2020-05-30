@@ -41,6 +41,8 @@
 - airflow
 - luigi
 - https://github.com/dagster-io/dagster
+
+### notebook management
 - https://github.com/nteract/papermill
 
 ### solutions
