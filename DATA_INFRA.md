@@ -56,6 +56,10 @@
 - https://www.optimizely.com/
 - https://github.com/YahooArchive/mendel
 
+### behavioral analytics
+- https://www.fullstory.com/
+- https://www.hotjar.com/
+
 ### catalogue
 - https://github.com/airbnb/knowledge-repo
 - https://github.com/lyft/amundsen
