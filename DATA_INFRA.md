@@ -60,6 +60,11 @@
 - https://www.fullstory.com/
 - https://www.hotjar.com/
 
+### feature flaggnig
+- https://launchdarkly.com/
+- https://www.split.io/
+- https://github.com/checkr/flagr
+
 ### catalogue
 - https://github.com/airbnb/knowledge-repo
 - https://github.com/lyft/amundsen
