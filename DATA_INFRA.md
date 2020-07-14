@@ -41,6 +41,7 @@
 - airflow
 - luigi
 - https://github.com/dagster-io/dagster
+- https://github.com/PrefectHQ/prefect
 
 ### notebook management
 - https://github.com/nteract/papermill
