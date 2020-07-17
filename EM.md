@@ -16,6 +16,7 @@
 - https://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/
 - https://www.cultureamp.com/blog/letting-go-of-our-best-employees/
 - ikigai
+- https://staffeng.com/
 
 #### team health
 - https://www.atlassian.com/team-playbook/health-monitor
