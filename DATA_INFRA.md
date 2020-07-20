@@ -75,5 +75,9 @@
 - looker
 - periscope
 
+### sales analytics
+- https://www.chorus.ai/
+- https://www.gong.io/
+
 ### neat utils
 - query CSVs w/ SQL: [cq](https://github.com/jolmg/cq)
