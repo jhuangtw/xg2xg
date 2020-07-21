@@ -17,6 +17,7 @@
 - https://www.cultureamp.com/blog/letting-go-of-our-best-employees/
 - ikigai
 - https://staffeng.com/
+- https://www.progression.fyi/
 
 #### team health
 - https://www.atlassian.com/team-playbook/health-monitor
