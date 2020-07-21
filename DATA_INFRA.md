@@ -42,6 +42,7 @@
 - luigi
 - https://github.com/dagster-io/dagster
 - https://github.com/PrefectHQ/prefect
+- https://www.getdbt.com/product/
 
 ### notebook management
 - https://github.com/nteract/papermill
@@ -61,7 +62,7 @@
 - https://www.fullstory.com/
 - https://www.hotjar.com/
 
-### feature flaggnig
+### feature flagging
 - https://launchdarkly.com/
 - https://www.split.io/
 - https://github.com/checkr/flagr
