@@ -83,6 +83,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | workflow/dependency management | | [Luigi](https://github.com/spotify/luigi), [Airflow](https://github.com/apache/airflow), [digdag](https://github.com/treasure-data/digdag), [Pachyderm](https://github.com/pachyderm/pachyderm), [Dask](https://github.com/dask/dask) |
 | ErrorProne                      | [ErrorProne](https://errorprone.info/)   | [SpotBugs](https://spotbugs.github.io/), [FindBugs](http://findbugs.sourceforge.net/) |
 | dapper (distributed trace) | [stackdriver trace](https://cloud.google.com/trace/) | [zipkin](https://github.com/openzipkin/zipkin), [opentracing](https://opentracing.io/docs/overview/), [jaeger](https://www.jaegertracing.io/) |
+| C++ Tips of the Week            | [Abseil C++ Tips of the Week](https://abseil.io/tips/) |  |
 
 ### Security
 | Google Internal                  | Google External | Open Source                              |
