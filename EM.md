@@ -120,3 +120,4 @@
 - [Manager READMEs](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
 - https://www.manager-tools.com/
 - [6 Must Reads for Managers Giving Feedback](http://firstround.com/review/our-6-must-reads-for-managers-to-give-feedback-that-helps-people-grow/)
+- [Failed #SquadGoals - Spotify doesn’t use “the Spotify model” and neither should you.](https://www.jeremiahlee.com/posts/failed-squad-goals/)
