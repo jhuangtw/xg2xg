@@ -15,6 +15,7 @@
 
 ### Data Lake
 - databricks delta
+- https://www.dremio.com/
 
 ### change data capture / streaming
 - https://www.attunity.com/
