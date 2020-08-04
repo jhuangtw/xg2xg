@@ -25,8 +25,9 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | Google Internal      | Google External                          | Open Source / Real-World                 |
 | -------------------- | ---------------------------------------- | ---------------------------------------- |
 | Borg                 | [Kubernetes](https://kubernetes.io/)     | [Apache Mesos](https://github.com/apache/mesos), [Apache Aurora](http://aurora.apache.org/), [HashiCorp Nomad](https://github.com/hashicorp/nomad) |
-| GSLB, GFE, Maglev, uberproxy  | [Cloud Load Balancing](https://cloud.google.com/load-balancing) | ELB, [HAProxy](http://www.haproxy.org/), [Istio](https://istio.io/), [F5](https://f5.com/products/big-ip), [envoy](https://github.com/lyft/envoy) |
-| uberproxy (sso proxy) | | [buzzfeed-sso](https://github.com/buzzfeed/sso) [Pomerium](https://pomerium.io/) |
+| GSLB | [Cloud Load Balancing](https://cloud.google.com/load-balancing) - Internal | AWS ELB,  [Istio](https://istio.io/), [envoy](https://github.com/lyft/envoy), [linkerd](https://linkerd.io/)
+| GFE, Maglev, uberproxy | [Cloud Load Balancing](https://cloud.google.com/load-balancing) - HTTPS / External | AWS ALB, [HAProxy](http://www.haproxy.org/), [nginx](https://www.nginx.com/), [F5](https://f5.com/products/big-ip) |
+| uberproxy (sso proxy) | [Identity-Aware Proxy](https://cloud.google.com/iap) | [buzzfeed-sso](https://github.com/buzzfeed/sso), [Pomerium](https://pomerium.io/) |
 | data center hardware | [open compute](http://www.opencompute.org/) |                                          |
 | Jupiter, Starblaze   |                                          |                                             |
 | B4, Stargate, TE     |                                          |                                             |
