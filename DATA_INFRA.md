@@ -41,9 +41,14 @@
 ### Orchistration
 - airflow
 - luigi
+- oozie
 - https://github.com/dagster-io/dagster
 - https://github.com/PrefectHQ/prefect
 - https://www.getdbt.com/product/
+
+### dataflow/transformation managers
+- streamset
+- nifi
 
 ### notebook management
 - https://github.com/nteract/papermill
