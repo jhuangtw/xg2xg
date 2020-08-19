@@ -1,4 +1,4 @@
-### readings
+### Reading
 - [Machine Learning: The High Interest Credit Card of Technical Debt](https://ai.google/research/pubs/pub43146)
 - [The Care & Feeding of Data Scientists](https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf)
 - [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
@@ -17,7 +17,7 @@
 - databricks delta
 - https://www.dremio.com/
 
-### change data capture / streaming
+### Change data capture / streaming
 - https://www.attunity.com/
 - https://streamsets.com/
 - https://github.com/debezium/debezium
@@ -32,13 +32,13 @@
 - https://zeppelin.apache.org/
 - https://github.com/ironmussa/Optimus
 
-### labeling
+### Labeling
 - https://www.snorkel.org/
 - https://www.figure-eight.com/
 - https://scale.ai
 - https://www.labelbox.com
 
-### Orchistration
+### Orchestration
 - airflow
 - luigi
 - oozie
@@ -46,34 +46,34 @@
 - https://github.com/PrefectHQ/prefect
 - https://www.getdbt.com/product/
 
-### dataflow/transformation managers
+### Dataflow/transformation managers
 - streamset
 - nifi
 
-### notebook management
+### Notebook management
 - https://github.com/nteract/papermill
 
-### solutions
+### Solutions
 - snowplow
 - https://www.prefect.io/
 - https://www.ascend.io/
 - https://www.datmo.com/
 - TFX-OSS
 
-### a/b testing
+### A/B testing
 - https://www.optimizely.com/
 - https://github.com/YahooArchive/mendel
 
-### behavioral analytics
+### Behavioral analytics
 - https://www.fullstory.com/
 - https://www.hotjar.com/
 
-### feature flagging
+### Feature flagging
 - https://launchdarkly.com/
 - https://www.split.io/
 - https://github.com/checkr/flagr
 
-### catalogue
+### Catalogue
 - https://github.com/airbnb/knowledge-repo
 - https://github.com/lyft/amundsen
 
@@ -82,9 +82,9 @@
 - looker
 - periscope
 
-### sales analytics
+### Sales analytics
 - https://www.chorus.ai/
 - https://www.gong.io/
 
-### neat utils
+### Neat utils
 - query CSVs w/ SQL: [cq](https://github.com/jolmg/cq)
