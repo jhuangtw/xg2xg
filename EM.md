@@ -58,6 +58,16 @@
 ##### hiring from referrals
 - https://www.teamable.com/
 
+##### d&i
+- https://www.devcolor.org/
+- http://www.code2040.org/
+- https://www.womenwhocode.com/
+- https://www.nextplaycommunity.com/
+- https://techqueria.org/
+- https://girlgeek.io/
+- https://www.diversifytech.co/
+- https://afrotech.com/
+
 ##### recruiting
 - https://www.bincsearch.com/
 
