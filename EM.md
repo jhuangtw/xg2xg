@@ -102,6 +102,11 @@
 - situational leadership (kenblanchard)
 - https://firstround.com/review/Keith-Rabois-on-the-role-of-a-COO-how-to-hire-and-why-transparency-matters/
 
+#### decision making
+- https://firstround.com/review/how-this-head-of-engineering-boosted-transparency-at-instagram/
+- https://www.atlassian.com/team-playbook/plays/daci
+- https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method
+
 
 ### Resources
 
