@@ -92,7 +92,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | prodaccess/LOAS                  |                 | [Keymaster](https://github.com/Cloud-Foundations/keymaster) |
 | prod secrets/identity management |                 | [chamber](https://github.com/segmentio/chamber), [knox](https://github.com/pinterest/knox), [SPIFFE](https://spiffe.io/) |
 
-## IT / Operations
+## IT / Operations / Misc
 | Google Internal                          | Real-World                               |
 | ---------------------------------------- | ---------------------------------------- |
 | [software engineering at google](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf) |                                          |
@@ -114,6 +114,9 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | messaging                                | [mattermost](https://github.com/mattermost/mattermost-server), [Slack](https://slack.com), gchat |
 | [peer bonus](https://www.forbes.com/sites/jurgenappelo/2015/07/08/the-peer-to-peer-bonus-system/#33c47ef84329)   | [bonus.ly](https://bonus.ly/), [zestful](https://zestful.com) |
 | kudos  | [heytaco](https://www.heytaco.chat/), [slack ++ bot](https://github.com/tdmalone/working-plusplus/) |
+| tech talks | [TechTalks @ Google](https://www.youtube.com/user/GoogleTechTalks/videos) |
+| talks | [Talks @ Google](https://www.youtube.com/c/talksatgoogle/videos) |
+
 
 
 also check out [xoogler.co](http://xoogler.co/), which organizes events, slack channels etc
