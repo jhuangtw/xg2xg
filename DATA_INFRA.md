@@ -82,6 +82,11 @@
 - looker
 - periscope
 
+### piping data around for salesOps/marketingOps/CRM etc
+- https://tray.io/
+- https://www.snaplogic.com/
+- https://www.polytomic.com/
+
 ### Sales analytics
 - https://www.chorus.ai/
 - https://www.gong.io/
