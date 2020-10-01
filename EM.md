@@ -15,6 +15,7 @@
 - https://www.radicalcandor.com/blog/problem-career-conversations/
 - https://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/
 - https://www.cultureamp.com/blog/letting-go-of-our-best-employees/
+- https://hbr.org/amp/2013/06/tours-of-duty-the-new-employer-employee-compact
 - ikigai
 - https://staffeng.com/
 - https://www.progression.fyi/
