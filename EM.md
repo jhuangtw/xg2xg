@@ -127,6 +127,7 @@
 - Dare to Lead
 - The Messy Middle
 - https://medium.com/range/leadership-reading-list-951c5ccb4370
+- Fierce Conversations
 
 #### Reading
 - http://randsinrepose.com/
