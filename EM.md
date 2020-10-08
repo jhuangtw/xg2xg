@@ -44,6 +44,7 @@
 ##### hiring distributed teams
 - https://remotive.io/remote-companies
 - https://terminal.io/
+- https://pilot.co/
 - https://arc.dev/
 - https://github.com/lukasz-madon/awesome-remote-job
 
