@@ -79,6 +79,8 @@
 ##### contract eng
 - https://www.10xmanagement.com/
 - https://www.facetdev.com/
+- https://www.toptal.com/
+- https://x-team.com/
 
 ##### layoff lists
 - https://layoffs.fyi/
