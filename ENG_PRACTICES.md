@@ -22,6 +22,7 @@ email lists
   - https://cure53.de/
 - https://application.security/
 - https://snyk.io/
+- https://doppler.com/
 
 #### compliance
 - https://github.com/pivotal/LicenseFinder
