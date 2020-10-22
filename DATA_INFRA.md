@@ -86,6 +86,7 @@
 - https://tray.io/
 - https://www.snaplogic.com/
 - https://www.polytomic.com/
+- https://www.getcensus.com/
 
 ### Sales analytics
 - https://www.chorus.ai/
