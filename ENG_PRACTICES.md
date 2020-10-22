@@ -23,6 +23,7 @@ email lists
 - https://application.security/
 - https://snyk.io/
 - https://doppler.com/
+- https://github.com/rawdigits/go-flashpaper
 
 #### compliance
 - https://github.com/pivotal/LicenseFinder
