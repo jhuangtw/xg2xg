@@ -32,6 +32,7 @@ email lists
 - [google SRE book](https://landing.google.com/sre/book/index.html)
 - getting infra-as-code off the ground (terraform): https://gruntwork.io/
 - https://github.com/etsy/DebriefingFacilitationGuide
+- https://how.complexsystems.fail/
 
 #### refactoring
 - https://refactoring.guru/
