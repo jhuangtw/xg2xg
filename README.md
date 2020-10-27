@@ -117,6 +117,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | kudos  | [heytaco](https://www.heytaco.chat/), [slack ++ bot](https://github.com/tdmalone/working-plusplus/) |
 | tech talks | [TechTalks @ Google](https://www.youtube.com/user/GoogleTechTalks/videos) |
 | talks | [Talks @ Google](https://www.youtube.com/c/talksatgoogle/videos) |
+| g3doc | [writethedocs](https://www.writethedocs.org/), [docs-as-code](https://idratherbewriting.com/learnapidoc/pubapis_docs_as_code.html) |
 
 
 
