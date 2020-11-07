@@ -82,6 +82,7 @@
 - https://www.facetdev.com/
 - https://www.toptal.com/
 - https://x-team.com/
+- https://symphony.is/
 
 ##### layoff lists
 - https://layoffs.fyi/
