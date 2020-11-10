@@ -10,6 +10,7 @@ email lists
 
 #### secops, privacy
 - https://www.hackerone.com/blog/security-vendors-startups-lob-cant-live-without
+- https://12factor.net/
 - https://sudo.pagerduty.com/
 - [vendor sec assessment](https://blogs.dropbox.com/tech/2019/03/towards-better-vendor-security-assessments/)
 - https://haveibeenpwned.com/
