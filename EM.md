@@ -11,6 +11,9 @@
 - [Enneagram](https://www.integrative9.com/)
 - [Standout](https://www.tmbc.com/standout-2-0-assessment/)
 
+- [the muppet theory](https://www.theatlantic.com/culture/archive/2012/06/muppet-theory-explains-humanity/327133/)
+- [Neil on Software](https://neilonsoftware.com/highly-effective-software-developers/)
+
 #### career convo
 - https://www.radicalcandor.com/blog/problem-career-conversations/
 - https://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/
