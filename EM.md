@@ -51,10 +51,11 @@
 - https://arc.dev/
 - https://github.com/lukasz-madon/awesome-remote-job
 
-##### hiring/interviewing-as-a-service
+##### hiring/assessment/interviewing-as-a-service
 - https://karat.com/
 - https://hired.com/
 - https://interviewing.io/
+- https://codesignal.com/
 
 ##### sourcing
 - https://www.traitly.com/
