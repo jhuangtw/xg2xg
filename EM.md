@@ -49,6 +49,7 @@
 - https://terminal.io/
 - https://pilot.co/
 - https://arc.dev/
+- https://turing.com/
 - https://github.com/lukasz-madon/awesome-remote-job
 
 ##### hiring/assessment/interviewing-as-a-service
