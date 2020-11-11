@@ -102,6 +102,12 @@
 - https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c
 - https://medium.com/@mrabkin/awkward-1-1s-the-art-of-getting-honest-feedback-2843078b2880
 
+#### 1:1/checkin facilitation/nudge engines
+- https://www.range.co/
+- https://knowyourteam.com/
+- https://www.readymetrics.com/
+- https://humu.com/
+
 #### meetings / facilitation
 - http://www.debonogroup.com/six_thinking_hats.php
 - [gCal speedy meetings setting](https://www.bettercloud.com/monitor/the-academy/efficient-effective-meetings-google-calendar/)
