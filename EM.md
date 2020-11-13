@@ -21,6 +21,7 @@
 - https://hbr.org/amp/2013/06/tours-of-duty-the-new-employer-employee-compact
 - ikigai
 - https://staffeng.com/
+- https://www.amazon.jobs/en/landing_pages/pe-community-tenets
 - https://www.progression.fyi/
 
 #### team health
