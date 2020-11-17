@@ -58,6 +58,7 @@
 - https://hired.com/
 - https://interviewing.io/
 - https://codesignal.com/
+- https://www.qualified.io/
 
 ##### sourcing
 - https://www.traitly.com/
