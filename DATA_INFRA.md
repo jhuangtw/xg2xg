@@ -28,6 +28,10 @@
 - flink
 - beam
 
+### real-time/document-search
+- elasticsearch
+- rockset
+
 ### Notebooks / exploration
 - jupyter
 - https://zeppelin.apache.org/
@@ -95,6 +99,7 @@
 
 ### Neat utils
 - query CSVs w/ SQL: [cq](https://github.com/jolmg/cq)
+- jq
 
 ### Generating fake data
 - https://github.com/lk-geimfari/mimesis
