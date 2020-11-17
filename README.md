@@ -17,7 +17,6 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | Stubby          | [gRPC](https://github.com/grpc/grpc)     | [Thrift](https://github.com/apache/thrift), [Bolt](https://boltprotocol.org/) |
 | Chubby          |                                          | [Apache Zookeeper](https://github.com/apache/zookeeper), [etcd](https://github.com/coreos/etcd), [HashiCorp Consul](https://github.com/hashicorp/consul) |
 | Goops / PubSub  |                                          | [Apache Kafka](https://github.com/apache/kafka), [Apache Pulsar](https://github.com/apache/incubator-pulsar), [Facebook LogDevice](https://github.com/facebookincubator/LogDevice) |
-| [Dapper](https://ai.google/research/pubs/pub36356) |       | [OpenTracing](https://opentracing.io/), [jaeger](https://www.jaegertracing.io/), [LightStep](https://lightstep.com), [Honeycomb](https://www.honeycomb.io/trace/) |
 | `//base`        |                                          | [abseil](https://github.com/abseil) |
 
 ### Infrastructure
@@ -84,7 +83,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | Copybara / MOE                  | [Copybara](https://github.com/google/copybara), [MOE](https://github.com/google/MOE)  |                                          |
 | workflow/dependency management | | [Luigi](https://github.com/spotify/luigi), [Airflow](https://github.com/apache/airflow), [digdag](https://github.com/treasure-data/digdag), [Pachyderm](https://github.com/pachyderm/pachyderm), [Dask](https://github.com/dask/dask) |
 | ErrorProne                      | [ErrorProne](https://errorprone.info/)   | [SpotBugs](https://spotbugs.github.io/), [FindBugs](http://findbugs.sourceforge.net/) |
-| dapper (distributed trace) | [stackdriver trace](https://cloud.google.com/trace/) | [zipkin](https://github.com/openzipkin/zipkin), [opentracing](https://opentracing.io/docs/overview/), [jaeger](https://www.jaegertracing.io/) |
+| [Dapper](https://ai.google/research/pubs/pub36356) | [stackdriver trace](https://cloud.google.com/trace/) | [zipkin](https://github.com/openzipkin/zipkin), [opentracing](https://opentracing.io/docs/overview/), [jaeger](https://www.jaegertracing.io/), [LightStep](https://lightstep.com), [Honeycomb](https://www.honeycomb.io/trace/) |
 | C++ Tips of the Week            | [Abseil C++ Tips of the Week](https://abseil.io/tips/) |  |
 
 ### Security
