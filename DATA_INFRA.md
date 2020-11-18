@@ -65,6 +65,12 @@
 - https://www.datmo.com/
 - TFX-OSS
 
+### event data
+- segment
+- Rudderstack
+- Metarouter
+- snowplow
+
 ### A/B testing
 - https://www.optimizely.com/
 - https://github.com/YahooArchive/mendel
