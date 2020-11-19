@@ -99,7 +99,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | valentine                                | [Vault](https://www.vaultproject.io/), [1Password](https://support.1password.com/create-share-vaults/), [Lastpass](http://lastpass.com), [pass](https://www.passwordstore.org/) |
 | OWNERS files in repo                     | [github CODEOWNERS](https://github.com/blog/2392-introducing-code-owners) |
 | snippets                                 | [Khan/snippets](https://github.com/Khan/snippets) |
-| SnipIt                                   | [recordit](http://recordit.co/), [CloudApp](https://www.getcloudapp.com/), [dropbox screenshots](https://help.dropbox.com/installs-integrations/photos/screenshots), [Sniippyly](https://snippyly.com/) |
+| SnipIt                                   | [recordit](http://recordit.co/), [CloudApp](https://www.getcloudapp.com/), [dropbox screenshots](https://help.dropbox.com/installs-integrations/photos/screenshots), [Snippyly](https://snippyly.com/) |
 | edge, people ops training                | [LifeLabs](http://lifelabsnewyork.com/)  |
 | googlegeist                              | [Culture Amp](https://www.cultureamp.com/), [humu](http://www.humu.com/), [tinypulse](https://www.tinypulse.com/), [peakon](https://peakon.com/) |
 | HRIS/ERP                                 | [Namely](https://namely.com), [BambooHR](https://www.bamboohr.com/), [Workday](https://workday.com) |
