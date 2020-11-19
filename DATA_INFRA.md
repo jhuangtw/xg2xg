@@ -60,6 +60,9 @@
 - streamset
 - nifi
 
+### unstructured/semi-structured data prep
+- https://www.trifacta.com/
+
 ### Solutions
 - snowplow
 - https://www.prefect.io/
