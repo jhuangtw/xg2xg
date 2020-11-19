@@ -36,12 +36,16 @@
 - jupyter
 - https://zeppelin.apache.org/
 - https://github.com/ironmussa/Optimus
+- https://colab.research.google.com/
 
 ### Labeling
 - https://www.snorkel.org/
 - https://www.figure-eight.com/
 - https://scale.ai
 - https://www.labelbox.com
+
+### Notebook management
+- https://github.com/nteract/papermill
 
 ### Orchestration
 - airflow
@@ -54,9 +58,6 @@
 ### Dataflow/transformation managers
 - streamset
 - nifi
-
-### Notebook management
-- https://github.com/nteract/papermill
 
 ### Solutions
 - snowplow
