@@ -12,6 +12,7 @@
 ### Warehouse
 - redshift
 - snowflake
+- bigquery
 - vertica
 
 ### Data Lake
@@ -38,6 +39,7 @@
 - https://github.com/ironmussa/Optimus
 - https://colab.research.google.com/
 - https://www.saturncloud.io/
+- https://rmarkdown.rstudio.com/
 
 ### Labeling
 - https://www.snorkel.org/
@@ -78,6 +80,7 @@
 
 ### A/B testing
 - https://www.optimizely.com/
+- https://www.abtasty.com/
 - https://github.com/YahooArchive/mendel
 
 ### Behavioral analytics
