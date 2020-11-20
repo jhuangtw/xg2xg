@@ -76,6 +76,7 @@
 - https://girlgeek.io/
 - https://www.diversifytech.co/
 - https://afrotech.com/
+- https://www.devinclusiongiveaways.com/
 
 ##### recruiting
 - https://www.bincsearch.com/
