@@ -100,9 +100,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | OWNERS files in repo                     | [github CODEOWNERS](https://github.com/blog/2392-introducing-code-owners) |
 | snippets                                 | [Khan/snippets](https://github.com/Khan/snippets) |
 | SnipIt                                   | [recordit](http://recordit.co/), [CloudApp](https://www.getcloudapp.com/), [dropbox screenshots](https://help.dropbox.com/installs-integrations/photos/screenshots), [Snippyly](https://snippyly.com/) |
-| edge, people ops training                | [LifeLabs](http://lifelabsnewyork.com/)  |
 | googlegeist                              | [Culture Amp](https://www.cultureamp.com/), [humu](http://www.humu.com/), [tinypulse](https://www.tinypulse.com/), [peakon](https://peakon.com/) |
-| HRIS/ERP                                 | [Namely](https://namely.com), [BambooHR](https://www.bamboohr.com/), [Workday](https://workday.com) |
 | stuff (SaaS IT management)               | [productiv](https://productiv.com/), [intello](https://www.intello.io/), [zylo](https://zylo.com/) |
 | stuff (Device Management)                | [Fleetsmith](https://www.fleetsmith.com/), [jamf](https://www.jamf.com/), [rippling IT](https://www.rippling.com/it/) |
 | device security monitoring               | [Red Canary](https://redcanary.com/) |
@@ -112,12 +110,17 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | doing code review                        | [code review](https://google.github.io/eng-practices/review/reviewer/) |
 | safely sharing 1-time secrets            | [croc](https://github.com/schollz/croc), [onetimesecret](https://github.com/onetimesecret/onetimesecret), [privatebin](https://privatebin.info/) |
 | messaging                                | [mattermost](https://github.com/mattermost/mattermost-server), [Slack](https://slack.com), gchat |
-| [peer bonus](https://www.forbes.com/sites/jurgenappelo/2015/07/08/the-peer-to-peer-bonus-system/#33c47ef84329)   | [bonus.ly](https://bonus.ly/), [zestful](https://zestful.com) |
-| kudos  | [heytaco](https://www.heytaco.chat/), [slack ++ bot](https://github.com/tdmalone/working-plusplus/) |
 | tech talks | [TechTalks @ Google](https://www.youtube.com/user/GoogleTechTalks/videos) |
-| talks | [Talks @ Google](https://www.youtube.com/c/talksatgoogle/videos) |
 | g3doc | [writethedocs](https://www.writethedocs.org/), [docs-as-code](https://idratherbewriting.com/learnapidoc/pubapis_docs_as_code.html) |
 
+## PeopleOps / Culture
+| Google Internal                          | Real-World                               |
+| ---------------------------------------- | ---------------------------------------- |
+| HRIS/ERP                                 | [Namely](https://namely.com), [BambooHR](https://www.bamboohr.com/), [Workday](https://workday.com) |
+| [peer bonus](https://www.forbes.com/sites/jurgenappelo/2015/07/08/the-peer-to-peer-bonus-system/#33c47ef84329)   | [bonus.ly](https://bonus.ly/), [zestful](https://zestful.com) |
+| kudos  | [heytaco](https://www.heytaco.chat/), [slack ++ bot](https://github.com/tdmalone/working-plusplus/) |
+| talks | [Talks @ Google](https://www.youtube.com/c/talksatgoogle/videos) |
+| edge, people ops training                | [LifeLabs](http://lifelabsnewyork.com/)  |
 
 
 also check out [xoogler.co](http://xoogler.co/), which organizes events, slack channels etc
