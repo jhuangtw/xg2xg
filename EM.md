@@ -51,6 +51,9 @@
 - https://pilot.co/
 - https://arc.dev/
 - https://turing.com/
+- https://www.letsdeel.com/
+- https://www.boundlesshq.com/
+- https://meet.jobs/
 - https://github.com/lukasz-madon/awesome-remote-job
 
 ##### hiring/assessment/interviewing-as-a-service
