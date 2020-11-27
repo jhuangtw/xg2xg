@@ -100,7 +100,6 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | OWNERS files in repo                     | [github CODEOWNERS](https://github.com/blog/2392-introducing-code-owners) |
 | snippets                                 | [Khan/snippets](https://github.com/Khan/snippets) |
 | SnipIt                                   | [recordit](http://recordit.co/), [CloudApp](https://www.getcloudapp.com/), [dropbox screenshots](https://help.dropbox.com/installs-integrations/photos/screenshots), [Snippyly](https://snippyly.com/) |
-| googlegeist                              | [Culture Amp](https://www.cultureamp.com/), [humu](http://www.humu.com/), [tinypulse](https://www.tinypulse.com/), [peakon](https://peakon.com/) |
 | stuff (SaaS IT management)               | [productiv](https://productiv.com/), [intello](https://www.intello.io/), [zylo](https://zylo.com/) |
 | stuff (Device Management)                | [Fleetsmith](https://www.fleetsmith.com/), [jamf](https://www.jamf.com/), [rippling IT](https://www.rippling.com/it/) |
 | device security monitoring               | [Red Canary](https://redcanary.com/) |
@@ -121,6 +120,10 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | kudos  | [heytaco](https://www.heytaco.chat/), [slack ++ bot](https://github.com/tdmalone/working-plusplus/) |
 | talks | [Talks @ Google](https://www.youtube.com/c/talksatgoogle/videos) |
 | edge, people ops training                | [LifeLabs](http://lifelabsnewyork.com/)  |
+| googlegeist                              | [Culture Amp](https://www.cultureamp.com/), [humu](http://www.humu.com/), [tinypulse](https://www.tinypulse.com/), [peakon](https://peakon.com/) |
+| Meng                                     | [Search Inside Yourself](https://www.amazon.com/Search-Inside-Yourself-Unexpected-Achieving/dp/0062116932) |
+| Lazlo                                    | [Work Rules](https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554790/) |
+| books about google | [How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582328), [In The Plex](https://www.amazon.com/Plex-Google-Thinks-Works-Shapes/dp/1416596585) |
 
 
 also check out [xoogler.co](http://xoogler.co/), which organizes events, slack channels etc
