@@ -95,7 +95,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 ## IT / Operations / Misc
 | Google Internal                          | Real-World                               |
 | ---------------------------------------- | ---------------------------------------- |
-| [software engineering at google](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf) |                                          |
+| [software engineering at google](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf) | [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791) |
 | valentine                                | [Vault](https://www.vaultproject.io/), [1Password](https://support.1password.com/create-share-vaults/), [Lastpass](http://lastpass.com), [pass](https://www.passwordstore.org/) |
 | OWNERS files in repo                     | [github CODEOWNERS](https://github.com/blog/2392-introducing-code-owners) |
 | snippets                                 | [Khan/snippets](https://github.com/Khan/snippets) |
