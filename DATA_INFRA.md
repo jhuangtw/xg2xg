@@ -75,6 +75,9 @@
 ### data quality monitoring
 - https://www.anomalo.com/
 
+### anomaly detection as a service
+- https://www.anodot.com/
+
 ### event data
 - segment
 - Rudderstack
