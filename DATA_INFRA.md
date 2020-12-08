@@ -72,6 +72,9 @@
 - https://www.datmo.com/
 - TFX-OSS
 
+### data quality monitoring
+- https://www.anomalo.com/
+
 ### event data
 - segment
 - Rudderstack
