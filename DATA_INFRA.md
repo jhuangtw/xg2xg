@@ -98,9 +98,14 @@
 - https://www.split.io/
 - https://github.com/checkr/flagr
 
-### Catalogue
+### Catalogue / metadata
 - https://github.com/airbnb/knowledge-repo
+- https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770
 - https://github.com/lyft/amundsen
+- https://eng.uber.com/databook/
+- https://medium.com/netflix-techblog/metacat-making-big-data-discoverable-and-meaningful-at-netflix-56fb36a53520
+- https://cloud.google.com/data-catalog/
+- https://github.com/linkedin/datahub
 
 ### BI
 - [superset](https://superset.incubator.apache.org/)
