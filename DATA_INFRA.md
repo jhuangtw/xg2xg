@@ -100,12 +100,13 @@
 
 ### Catalogue / metadata
 - https://github.com/airbnb/knowledge-repo
-- https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770
 - https://github.com/lyft/amundsen
 - https://eng.uber.com/databook/
 - https://medium.com/netflix-techblog/metacat-making-big-data-discoverable-and-meaningful-at-netflix-56fb36a53520
 - https://cloud.google.com/data-catalog/
 - https://github.com/linkedin/datahub
+- [airbnb: democratizing data](https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770), [airbnb: scaling knowledge](https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091)
+
 
 ### BI
 - [superset](https://superset.incubator.apache.org/)
