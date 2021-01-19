@@ -112,6 +112,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | messaging                                | [mattermost](https://github.com/mattermost/mattermost-server), [Slack](https://slack.com), gchat |
 | tech talks | [TechTalks @ Google](https://www.youtube.com/user/GoogleTechTalks/videos) |
 | g3doc | [writethedocs](https://www.writethedocs.org/), [docs-as-code](https://idratherbewriting.com/learnapidoc/pubapis_docs_as_code.html) |
+| GUTS | [spoke](https://www.atspoke.com/) |
 
 ## PeopleOps / Culture
 | Google Internal                          | Real-World                               |
