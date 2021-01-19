@@ -121,7 +121,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | HRIS/ERP                                 | [Namely](https://namely.com), [BambooHR](https://www.bamboohr.com/), [Workday](https://workday.com), [Paylocity](https://www.paylocity.com/) |
 | [peer bonus](https://www.forbes.com/sites/jurgenappelo/2015/07/08/the-peer-to-peer-bonus-system/#33c47ef84329)   | [bonus.ly](https://bonus.ly/), [zestful](https://zestful.com) |
 | kudos  | [heytaco](https://www.heytaco.chat/), [slack ++ bot](https://github.com/tdmalone/working-plusplus/) |
-| perks | [fond](fond.co) |
+| perks | [fond](https://fond.co) |
 | talks | [Talks @ Google](https://www.youtube.com/c/talksatgoogle/videos) |
 | edge, people ops training                | [LifeLabs](http://lifelabsnewyork.com/)  |
 | googlegeist                              | [Culture Amp](https://www.cultureamp.com/), [humu](http://www.humu.com/), [tinypulse](https://www.tinypulse.com/), [peakon](https://peakon.com/) |
