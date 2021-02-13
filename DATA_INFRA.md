@@ -24,6 +24,9 @@
 - https://streamsets.com/
 - https://github.com/debezium/debezium
 
+### data versioning
+- https://projectnessie.org/
+
 ### Streaming
 - kafka
 - flink
