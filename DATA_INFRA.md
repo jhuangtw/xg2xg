@@ -27,6 +27,10 @@
 ### data versioning
 - https://projectnessie.org/
 
+### OLAP
+- https://pinot.apache.org/
+- https://kylin.apache.org/
+
 ### Streaming
 - kafka
 - flink
