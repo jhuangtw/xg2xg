@@ -81,6 +81,7 @@
 
 ### data quality monitoring
 - https://www.anomalo.com/
+- https://github.com/awslabs/deequ
 
 ### anomaly detection as a service
 - https://www.anodot.com/
@@ -113,7 +114,6 @@
 - https://cloud.google.com/data-catalog/
 - https://github.com/linkedin/datahub
 - [airbnb: democratizing data](https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770), [airbnb: scaling knowledge](https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091)
-
 
 ### BI
 - [superset](https://superset.incubator.apache.org/)
