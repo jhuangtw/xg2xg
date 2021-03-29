@@ -141,3 +141,6 @@
 
 ### Generating fake data
 - https://github.com/lk-geimfari/mimesis
+
+### privacy / compliance
+- https://www.datagrail.io/
