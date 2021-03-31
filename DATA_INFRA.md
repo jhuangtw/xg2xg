@@ -47,6 +47,7 @@
 - https://colab.research.google.com/
 - https://www.saturncloud.io/
 - https://rmarkdown.rstudio.com/
+- https://www.querybook.org/
 
 ### Labeling
 - https://www.snorkel.org/
