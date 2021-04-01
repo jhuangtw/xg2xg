@@ -125,6 +125,7 @@
 - fivetran
 - singer.io
 - talend
+- https://github.com/airbytehq/airbyte
 
 ### reverse-etl: piping data around for salesOps/marketingOps/CRM etc
 - https://tray.io/
