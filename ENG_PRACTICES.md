@@ -26,6 +26,7 @@ email lists
 - https://snyk.io/
 - https://doppler.com/
 - https://github.com/rawdigits/go-flashpaper
+- https://darknetdiaries.com/
 
 #### compliance
 - https://github.com/pivotal/LicenseFinder
