@@ -17,6 +17,8 @@
 
 ### Data Lake
 - databricks delta
+- https://github.com/apache/iceberg
+- https://github.com/apache/hudi
 - https://www.dremio.com/
 
 ### Change data capture / streaming
