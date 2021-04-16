@@ -130,6 +130,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | googlegeist                              | [Culture Amp](https://www.cultureamp.com/), [humu](http://www.humu.com/), [tinypulse](https://www.tinypulse.com/), [peakon](https://peakon.com/) |
 | Meng                                     | [Search Inside Yourself](https://www.amazon.com/Search-Inside-Yourself-Unexpected-Achieving/dp/0062116932) |
 | Lazlo                                    | [Work Rules](https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554790/) |
+| Claire Stapleton                         | [Tech Support - existential advice for the modern tech worker](https://techsupport.substack.com/) |
 | books about google | [How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582328), [In The Plex](https://www.amazon.com/Plex-Google-Thinks-Works-Shapes/dp/1416596585) |
 
 
