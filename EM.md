@@ -144,6 +144,9 @@
 - the Advantage
 - the phoenix project
 - radical candor
+- Peopleware
+- What Got You Here Won't Get You There
+- An Elegant Puzzle: Systems of Engineering Management
 - High Growth Handbook
 - The Manager's Path
 - Dare to Lead
