@@ -83,6 +83,7 @@
 
 ##### recruiting
 - https://www.bincsearch.com/
+- security focused: https://coderedpartners.com/
 
 ##### executive recruiting
 - https://rivierapartners.com/
