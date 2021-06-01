@@ -50,6 +50,9 @@
 - https://www.saturncloud.io/
 - https://rmarkdown.rstudio.com/
 - https://www.querybook.org/
+- https://deepnote.com/
+- https://cnvrg.io/
+- dominodatalab
 
 ### Labeling
 - https://www.snorkel.org/
