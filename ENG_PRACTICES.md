@@ -59,6 +59,7 @@ email lists
 - https://www.lexisnexis.com/en-us/gateway.page (vet employer/identity)
 - https://risk.lexisnexis.com/products/threatmetrix
 - https://emailage.com/ (vet e-mail legitimacy)
+
 industry-collaborative risk-data-exchange project:
 - https://www.zerofox.com/ (commercial company)
 - https://developers.facebook.com/products/threat-exchange (by fb)
