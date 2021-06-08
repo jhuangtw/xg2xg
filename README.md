@@ -13,7 +13,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | Google Internal | Google External                          | Open Source / Real-World                 |
 | --------------- | ---------------------------------------- | ---------------------------------------- |
 | MapReduce       |                                          | [Apache Hadoop](https://github.com/apache/hadoop), [Spark](https://github.com/apache/spark) |
-| Flume           | [DataFlow](https://cloud.google.com/dataflow)  | [Apache Beam](https://beam.apache.org/) |
+| [Flume](https://ai.google/research/pubs/pub35650)   | [DataFlow](https://cloud.google.com/dataflow)  | [Apache Beam](https://beam.apache.org/) |
 | Protocol Buffer | [Protobuf](https://github.com/google/protobuf) | [Cap'n Proto](https://capnproto.org/), [Thrift](https://github.com/apache/thrift), [Avro](https://github.com/apache/avro), [Amazon Ion](https://amzn.github.io/ion-docs/), [CBOR](https://cbor.io/) |
 | Stubby          | [gRPC](https://github.com/grpc/grpc)     | [Thrift](https://github.com/apache/thrift), [Bolt](https://boltprotocol.org/) |
 | Chubby          |                                          | [Apache Zookeeper](https://github.com/apache/zookeeper), [etcd](https://github.com/coreos/etcd), [HashiCorp Consul](https://github.com/hashicorp/consul) |
@@ -56,8 +56,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | Dremel UI                                |                                          | [Redash](https://github.com/getredash/redash), [Metabase](https://github.com/metabase/metabase), [Apache Superset](https://github.com/apache/incubator-superset) |                                          |
 | Search (Mustang, Alexandria)             |                                          | [Elasticsearch](https://github.com/elastic/elasticsearch), Solr, Lucene              | [algolia](https://www.algolia.com/)      |
 | pubsub                                   | [pubsub](https://cloud.google.com/pubsub/docs/overview) | [NATS.io](https://nats.io), [RabbitMQ](https://github.com/rabbitmq), [PubNub](https://www.pubnub.com/) | AWS SQS/SNS, [AWS AppSync](https://aws.amazon.com/appsync) |
-| [Flume (Java)](https://ai.google/research/pubs/pub35650) | [Apache Beam](https://beam.apache.org/)  | [Apache Crunch](https://crunch.apache.org/) |                                          |
-| [MillWheel](https://ai.google/research/pubs/pub41378) | [Cloud Dataflow](https://cloud.google.com/dataflow/) | [Apache Flink](https://flink.apache.org/) |                |
+| [MillWheel](https://ai.google/research/pubs/pub41378) | [Cloud Dataflow](https://cloud.google.com/dataflow/) | [Apache Flink](https://flink.apache.org/), beam |                |
 | Colab | [Colaboratory](https://colab.research.google.com/) | [Jupyter](https://jupyter.org) | |
 | PLX | [Google Data Studio](https://datastudio.google.com/) | | [Mode](https://mode.com) |
 
