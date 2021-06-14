@@ -142,6 +142,9 @@
 - https://www.chorus.ai/
 - https://www.gong.io/
 
+### timeseries forecasting
+- https://github.com/linkedin/greykite
+
 ### Neat utils
 - query CSVs w/ SQL: [cq](https://github.com/jolmg/cq)
 - jq
