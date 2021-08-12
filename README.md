@@ -89,7 +89,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | [Dapper](https://ai.google/research/pubs/pub36356) | [stackdriver trace](https://cloud.google.com/trace/) | [zipkin](https://github.com/openzipkin/zipkin), [opentracing](https://opentracing.io/docs/overview/), [jaeger](https://www.jaegertracing.io/), [LightStep](https://lightstep.com), [Honeycomb](https://www.honeycomb.io/trace/) |
 | C++ Tips of the Week            | [Abseil C++ Tips of the Week](https://abseil.io/tips/) |  |
 | [DiRT](https://cloud.google.com/blog/products/management-tools/shrinking-the-time-to-mitigate-production-incidents) | | [ChaosMonkey](https://github.com/Netflix/chaosmonkey), [aws fis](https://aws.amazon.com/fis/) |
-| [Rosie](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext) | | [microplane](https://github.com/Clever/microplane) |
+| [Rosie](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext) | | [microplane](https://github.com/Clever/microplane), [silver-platter](https://github.com/jelmer/silver-platter) |
 
 
 ### Security
