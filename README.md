@@ -58,7 +58,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | Search (Mustang, Alexandria)             |                                          | [Elasticsearch](https://github.com/elastic/elasticsearch), [OpenSearch](https://opensearch.org/), Solr, Lucene              | [algolia](https://www.algolia.com/)      |
 | pubsub                                   | [pubsub](https://cloud.google.com/pubsub/docs/overview) | [NATS.io](https://nats.io), [RabbitMQ](https://github.com/rabbitmq), [PubNub](https://www.pubnub.com/) | AWS SQS/SNS, [AWS AppSync](https://aws.amazon.com/appsync) |
 | [MillWheel](https://ai.google/research/pubs/pub41378) | [Cloud Dataflow](https://cloud.google.com/dataflow/) | [Apache Flink](https://flink.apache.org/), beam |                |
-| Colab | [Colaboratory](https://colab.research.google.com/) | [Jupyter](https://jupyter.org) | |
+| Colab | [Colaboratory](https://colab.research.google.com/) | [Jupyter](https://jupyter.org) | [Observable](https://observablehq.com/) |
 | PLX | [Google Data Studio](https://datastudio.google.com/) | | [Mode](https://mode.com) |
 
 ### DevOps
