@@ -154,3 +154,5 @@
 
 ### privacy / compliance
 - https://www.datagrail.io/
+- immuta
+- privacera
