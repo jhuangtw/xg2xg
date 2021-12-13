@@ -131,6 +131,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | kudos  | [heytaco](https://www.heytaco.chat/), [slack ++ bot](https://github.com/tdmalone/working-plusplus/) |
 | perks | [fond](https://fond.co) |
 | talks | [Talks @ Google](https://www.youtube.com/c/talksatgoogle/videos) |
+| dory | [slido](https://www.sli.do/) |
 | edge, people ops training                | [LifeLabs](http://lifelabsnewyork.com/)  |
 | googlegeist                              | [Culture Amp](https://www.cultureamp.com/), [humu](http://www.humu.com/), [tinypulse](https://www.tinypulse.com/), [peakon](https://peakon.com/) |
 | Meng                                     | [Search Inside Yourself](https://www.amazon.com/Search-Inside-Yourself-Unexpected-Achieving/dp/0062116932) |
