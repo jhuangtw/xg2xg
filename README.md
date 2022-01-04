@@ -35,7 +35,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | B4, Stargate, TE     |                                          |                                             |
 | USPS, Andromeda      |                                          |                                             |
 | ESDN                 |                                          | [Faucet](https://github.com/faucetsdn/faucet)
-| [brocolli man](https://www.youtube.com/watch?v=3t6L-FlfeaI)  | ||
+| [broccoli man](https://www.youtube.com/watch?v=3t6L-FlfeaI)  | ||
 
 
 ### Storage
