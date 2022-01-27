@@ -33,11 +33,12 @@
 #### communication
 - [how to say no](https://www.starterstory.com/how-to-say-no)
 
-#### mentors on-call
+#### on-demand mentors/coaching
+- (technical) https://www.codementor.io/
+- (EM-specific) https://www.platohq.com/
 - https://www.workbravely.com/
-- https://www.platohq.com/
-- https://www.codementor.io/
-- exec: https://athenaalliance.com/
+- https://www.betterup.com/
+- (exec) https://athenaalliance.com/
 
 #### hiring
 - https://stripe.com/atlas/guides/scaling-eng
