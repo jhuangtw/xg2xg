@@ -37,6 +37,7 @@
 - https://app.workbravely.com/
 - https://www.platohq.com/
 - https://www.codementor.io/
+- exec: https://athenaalliance.com/
 
 #### hiring
 - https://stripe.com/atlas/guides/scaling-eng
