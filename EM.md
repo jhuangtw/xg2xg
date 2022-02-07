@@ -105,6 +105,11 @@
 - https://www.onesoftlanding.com/
 - https://candor.co/layoff-list/
 
+##### leveling
+- https://dropbox.github.io/dbx-career-framework/overview.html
+- https://staffeng.com/
+- https://levels.fyi/
+
 
 ### Process
 
