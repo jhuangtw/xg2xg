@@ -156,3 +156,5 @@
 - https://www.datagrail.io/
 - immuta
 - privacera
+- ethyca
+- osano
