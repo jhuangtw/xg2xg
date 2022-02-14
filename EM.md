@@ -73,6 +73,7 @@
 - https://www.teamable.com/
 
 ##### d&i
+- https://gaingels.com/
 - https://www.devcolor.org/
 - http://www.code2040.org/
 - https://www.womenwhocode.com/
