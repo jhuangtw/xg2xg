@@ -99,6 +99,7 @@
 - https://www.toptal.com/
 - https://x-team.com/
 - https://symphony.is/
+- https://terminal.io/
 
 ##### layoff lists
 - https://layoffs.fyi/
