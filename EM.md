@@ -47,16 +47,22 @@
 - https://medium.engineering/engineering-interviews-grading-rubric-8b409bec021f
 - https://hbr.org/2016/02/a-scorecard-for-making-better-hiring-decisions
 
-##### hiring distributed teams
+##### hiring distributed teams / contract eng
 - https://remotive.io/remote-companies
 - https://terminal.io/
 - https://pilot.co/
 - https://arc.dev/
+- https://worca.io/
 - https://turing.com/
 - https://www.letsdeel.com/
 - https://www.boundlesshq.com/
 - https://meet.jobs/
 - https://github.com/lukasz-madon/awesome-remote-job
+- https://www.10xmanagement.com/
+- https://www.facetdev.com/
+- https://www.toptal.com/
+- https://x-team.com/
+- https://symphony.is/
 
 ##### hiring/assessment/interviewing-as-a-service
 - https://karat.com/
@@ -92,14 +98,6 @@
 ##### executive recruiting
 - https://rivierapartners.com/
 - https://www.daversapartners.com/
-
-##### contract eng
-- https://www.10xmanagement.com/
-- https://www.facetdev.com/
-- https://www.toptal.com/
-- https://x-team.com/
-- https://symphony.is/
-- https://terminal.io/
 
 ##### layoff lists
 - https://layoffs.fyi/
