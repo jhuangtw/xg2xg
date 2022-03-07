@@ -82,6 +82,7 @@
 - https://gaingels.com/
 - https://www.devcolor.org/
 - http://www.code2040.org/
+- https://www.colorstack.org/
 - https://www.womenwhocode.com/
 - https://www.nextplaycommunity.com/
 - https://techqueria.org/
