@@ -61,6 +61,9 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | [MillWheel](https://ai.google/research/pubs/pub41378) | [Cloud Dataflow](https://cloud.google.com/dataflow/) | [Apache Flink](https://flink.apache.org/), beam |                |
 | Colab | [Colaboratory](https://colab.research.google.com/) | [Jupyter](https://jupyter.org) | [Observable](https://observablehq.com/) |
 | PLX | [Google Data Studio](https://datastudio.google.com/) | | [Mode](https://mode.com) |
+| Monarch | [paper](https://research.google/pubs/pub50652/) | | |
+| Napa | [paper](https://research.google/pubs/pub50617/) | | |
+
 
 ### DevOps
 | Google Internal                 | Google External                          | Real-World                               |
