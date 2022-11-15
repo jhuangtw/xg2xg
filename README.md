@@ -29,7 +29,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | OnePlatform          | [API Gateway](https://cloud.google.com/api-gateway) | [Swagger](https://swagger.io/) |
 | GFE, Maglev, uberproxy | [Cloud Load Balancing](https://cloud.google.com/load-balancing) - HTTPS / External | AWS ALB, [HAProxy](http://www.haproxy.org/), [nginx](https://www.nginx.com/), [F5](https://f5.com/products/big-ip) |
 | uberproxy (sso proxy) | [Identity-Aware Proxy](https://cloud.google.com/iap) | [buzzfeed-sso](https://github.com/buzzfeed/sso), [Pomerium](https://pomerium.io/) |
-| Zanzibar             | [Zanzibar Research Paper](https://research.google/pubs/pub48190/) | [SpiceDB](https://github.com/authzed/spicedb), [Ory Keto](https://www.ory.sh/keto/docs/), [topaz](https://github.com/aserto-dev/topaz) |
+| Zanzibar             | [Zanzibar Research Paper](https://research.google/pubs/pub48190/) | [SpiceDB](https://github.com/authzed/spicedb)/[authzed](https://authzed.com/), [Ory Keto](https://www.ory.sh/keto/docs/), [topaz](https://github.com/aserto-dev/topaz) |
 | data center hardware | [open compute](http://www.opencompute.org/) |                                          |
 | Jupiter, Starblaze   |                                          |                                             |
 | B4, Stargate, TE     |                                          |                                             |
@@ -97,6 +97,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | [DiRT](https://cloud.google.com/blog/products/management-tools/shrinking-the-time-to-mitigate-production-incidents) | | [ChaosMonkey](https://github.com/Netflix/chaosmonkey), [aws fis](https://aws.amazon.com/fis/) |
 | [Rosie](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext) | | [microplane](https://github.com/Clever/microplane), [silver-platter](https://github.com/jelmer/silver-platter) |
 | API Improvements Proposals | [AIP](https://google.aip.dev/) | |
+| probers | | [cloudprober](https://github.com/cloudprober/cloudprober) |
 
 ### Security
 | Google Internal                  | Google External | Open Source                              |
@@ -124,7 +125,8 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | messaging                                | [mattermost](https://github.com/mattermost/mattermost-server), [Slack](https://slack.com), gchat |
 | tech talks | [TechTalks @ Google](https://www.youtube.com/user/GoogleTechTalks/videos) |
 | g3doc | [writethedocs](https://www.writethedocs.org/), [docs-as-code](https://idratherbewriting.com/learnapidoc/pubapis_docs_as_code.html) |
-| GUTS | [spoke](https://www.atspoke.com/) |
+| GUTS | [spoke](https://www.atspoke.com/), [freshservice](https://freshservice.com/) |
+| MOMA | [glean](https://www.glean.com/) |
 
 ## PeopleOps / Culture
 | Google Internal                          | Real-World                               |
