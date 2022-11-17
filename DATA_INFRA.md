@@ -131,6 +131,7 @@
 - singer.io
 - talend
 - https://github.com/airbytehq/airbyte
+- https://github.com/linkedin/brooklin
 
 ### reverse-etl: piping data around for salesOps/marketingOps/CRM etc
 - https://tray.io/
