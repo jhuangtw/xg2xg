@@ -149,6 +149,6 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 
 also check out [xoogler.co](http://xoogler.co/), which organizes events, slack channels etc
 
-*disclaimer: I'm not affiliated with any of the technologies mentioned above.*
+*disclaimer: I'm not affiliated with any of the technologies/products mentioned above.*
 
-*disclaimer: I left Google a number of years ago so some of the naming might be dated*
+*disclaimer: I left Google a number of years ago so some of the naming might be dated.*
