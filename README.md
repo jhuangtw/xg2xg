@@ -1,5 +1,5 @@
 A handy lookup table of similar technology and services to help ex-googlers survive the *real* world :)
-pull-requests very welcomed. __Please do not list any confidential projects!__
+pull-requests are very welcomed. __Please do not list any confidential projects!__
 
 For a working example of (some) of these technologies integrated together, see:
 https://github.com/google/startup-os
@@ -14,10 +14,10 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | --------------- | ---------------------------------------- | ---------------------------------------- |
 | MapReduce       |                                          | [Apache Hadoop](https://github.com/apache/hadoop), [Spark](https://github.com/apache/spark) |
 | [Flume](https://ai.google/research/pubs/pub35650)   | [DataFlow](https://cloud.google.com/dataflow)  | [Apache Beam](https://beam.apache.org/) |
-| Protocol Buffer | [Protobuf](https://github.com/google/protobuf) | [Cap'n Proto](https://capnproto.org/), [Thrift](https://github.com/apache/thrift), [Avro](https://github.com/apache/avro), [Amazon Ion](https://amzn.github.io/ion-docs/), [CBOR](https://cbor.io/), [kryo](https://github.com/EsotericSoftware/kryo) |
+| Protocol Buffer | [Protobuf](https://github.com/google/protobuf), [FlatBuffers](https://google.github.io/flatbuffers/) | [Cap'n Proto](https://capnproto.org/), [Thrift](https://github.com/apache/thrift), [Avro](https://github.com/apache/avro), [Amazon Ion](https://amzn.github.io/ion-docs/), [CBOR](https://cbor.io/), [kryo](https://github.com/EsotericSoftware/kryo) |
 | Stubby          | [gRPC](https://github.com/grpc/grpc)     | [Thrift](https://github.com/apache/thrift), [Bolt](https://boltprotocol.org/) |
 | Chubby          |                                          | [Apache Zookeeper](https://github.com/apache/zookeeper), [etcd](https://github.com/coreos/etcd), [HashiCorp Consul](https://github.com/hashicorp/consul) |
-| Goops / PubSub  |                                          | [Apache Kafka](https://github.com/apache/kafka), [Apache Pulsar](https://github.com/apache/incubator-pulsar), [Facebook LogDevice](https://github.com/facebookincubator/LogDevice) |
+| Goops / PubSub  | [Cloud Pub/Sub](https://cloud.google.com/pubsub)     | [Apache Kafka](https://github.com/apache/kafka), [Apache Pulsar](https://github.com/apache/incubator-pulsar), [Facebook LogDevice](https://github.com/facebookincubator/LogDevice) |
 | `//base`        |                                          | [abseil](https://github.com/abseil) |
 
 ### Infrastructure
@@ -29,7 +29,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | OnePlatform          | [API Gateway](https://cloud.google.com/api-gateway) | [Swagger](https://swagger.io/) |
 | GFE, Maglev, uberproxy | [Cloud Load Balancing](https://cloud.google.com/load-balancing) - HTTPS / External | AWS ALB, [HAProxy](http://www.haproxy.org/), [nginx](https://www.nginx.com/), [F5](https://f5.com/products/big-ip) |
 | uberproxy (sso proxy) | [Identity-Aware Proxy](https://cloud.google.com/iap) | [buzzfeed-sso](https://github.com/buzzfeed/sso), [Pomerium](https://pomerium.io/) |
-| Zanzibar             | [Zanzibar Research Paper](https://research.google/pubs/pub48190/) | [SpiceDB](https://github.com/authzed/spicedb), [Ory Keto](https://www.ory.sh/keto/docs/) |
+| Zanzibar             | [Zanzibar Research Paper](https://research.google/pubs/pub48190/) | [SpiceDB](https://github.com/authzed/spicedb)/[authzed](https://authzed.com/), [Ory Keto](https://www.ory.sh/keto/docs/), [topaz](https://github.com/aserto-dev/topaz) |
 | data center hardware | [open compute](http://www.opencompute.org/) |                                          |
 | Jupiter, Starblaze   |                                          |                                             |
 | B4, Stargate, TE     |                                          |                                             |
@@ -42,7 +42,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 
 | Google Internal                          | Google External                          | Open Source / Real-World                 |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
-| GFS/Colossus                             |                                          | HDFS, [Ceph](https://ceph.com), [GlusterFS](https://www.gluster.org), [MooseFS](https://moosefs.com/products/#moosefs) |
+| GFS/Colossus                             |                                          | [HDFS](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html), [Ceph](https://ceph.com), [GlusterFS](https://www.gluster.org), [MooseFS](https://moosefs.com/products/#moosefs) |
 | BigTable                                 | [Cloud BigTable](https://cloud.google.com/bigtable) | [PrestoDB](https://prestodb.io/), [Cassandra](https://github.com/apache/cassandra), [HBase](https://github.com/apache/hbase), [Accumulo](https://github.com/apache/accumulo), [DynamoDB](https://aws.amazon.com/dynamodb), [ScyllaDB](https://www.scylladb.com/) |
 | [Spanner](http://research.google.com/archive/spanner.html) | [Cloud Spanner](https://cloud.google.com/spanner/) | [Vitess](https://vitess.io), [CockroachDB](https://github.com/cockroachdb/cockroach), [TiDB](https://github.com/pingcap/tidb) |
 | ColumnIO / [Capacitor](https://cloud.google.com/blog/big-data/2016/04/inside-capacitor-bigquerys-next-generation-columnar-storage-format) |                                          | [Apache Parquet](http://parquet.apache.org), [ORC](https://orc.apache.org/docs/) |
@@ -82,7 +82,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | Sisyphus / Rapid                |                                          | [Spinnaker](https://www.spinnaker.io/), [lambdaCD](http://www.lambda.cd), screwdriver.cd, [CodeShip](https://codeship.com), [shipit-engine](https://github.com/Shopify/shipit-engine), [GoCD](https://www.gocd.org), [AWS CodeDeploy](https://aws.amazon.com/codedeploy/), [Capistrano](http://www.capistranorb.com), [Fabric](http://www.fabfile.org), [ConcourseCI](https://concourse.ci/), [samson](https://github.com/zendesk/samson) |
 | MPM                             |                                          | [Docker](https://www.docker.com/) |
 | borg / borgcfg / gcl            | [Jsonnet](http://jsonnet.org/), [Cue](https://cuelang.org/) | [AWS Cloudformation](https://aws.amazon.com/cloudformation/), Puppet, Chef, Salt, Ansible, [Terraform](https://www.terraform.io), [kubecfg](https://github.com/bitnami/kubecfg), [pulumi](https://github.com/pulumi/pulumi), [Nix](https://nix.dev/) |
-| logging, analog                 | [StackDriver](https://cloud.google.com/stackdriver/) | [logstash](https://github.com/elastic/logstash), [fluentd](https://github.com/fluent/fluentd), [PaperTrail](https://www.papertrail.com/), [cernan](https://github.com/postmates/cernan) |
+| logging, analog                 | [StackDriver](https://cloud.google.com/stackdriver/) | [logstash](https://github.com/elastic/logstash), [fluentd](https://github.com/fluent/fluentd), [PaperTrail](https://www.papertrail.com/), [cernan](https://github.com/postmates/cernan), [loki](https://grafana.com/oss/loki/) |
 | CodeSearch, Grimoire            | [Zoekt](https://github.com/google/zoekt) [kythe](https://github.com/kythe/kythe) | [Sourcegraph](https://sourcegraph.com), [OpenGrok](https://github.com/OpenGrok/OpenGrok/), [livegrep](https://github.com/livegrep/livegrep) |
 | Critique, Gerrit, Mondrian etc. | [Gerrit](https://www.gerritcodereview.com/) | [Reviewable](https://reviewable.io) , [Phabricator](https://www.phacility.com/phabricator/)     |
 | cider                           |                                          | [Eclipse Che](https://www.eclipse.org/che/), [Cloud9](https://c9.io/), [gitpod.io](https://gitpod.io), [Coder](https://coder.com/), [Code-Server (VSCode in a Tab)](https://github.com/cdr/code-server)|
@@ -98,6 +98,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | [Rosie](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext) | | [microplane](https://github.com/Clever/microplane), [silver-platter](https://github.com/jelmer/silver-platter) |
 | API Improvements Proposals | [AIP](https://google.aip.dev/) | |
 | g4 {fix, submit} | | [Trunk.io](https://trunk.io) |
+| probers | | [cloudprober](https://github.com/cloudprober/cloudprober) |
 
 ### Security
 | Google Internal                  | Google External | Open Source                              |
@@ -121,11 +122,12 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | [go/ links](https://medium.com/@golinks/the-full-history-of-go-links-and-the-golink-system-cbc6d2c8bb3)                                | [golinks](https://www.golinks.io/), [go](https://github.com/kellegous/go), [Goat](https://goatcodes.com/), [trotto](https://github.com/trotto/go-links), [go-shorten](https://github.com/thomasdesr/go-shorten) |
 | google3 philosophy                       | [innersource](https://resources.github.com/whitepapers/introduction-to-innersource/), [monorepo](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext) |
 | doing code review                        | [code review](https://google.github.io/eng-practices/review/reviewer/) |
-| safely sharing 1-time secrets            | [croc](https://github.com/schollz/croc), [onetimesecret](https://github.com/onetimesecret/onetimesecret), [privatebin](https://privatebin.info/) |
+| safely sharing 1-time secrets            | [sendsecure.ly](sendsecure.ly), [croc](https://github.com/schollz/croc), [onetimesecret](https://github.com/onetimesecret/onetimesecret), [privatebin](https://privatebin.info/) |
 | messaging                                | [mattermost](https://github.com/mattermost/mattermost-server), [Slack](https://slack.com), gchat |
 | tech talks | [TechTalks @ Google](https://www.youtube.com/user/GoogleTechTalks/videos) |
 | g3doc | [writethedocs](https://www.writethedocs.org/), [docs-as-code](https://idratherbewriting.com/learnapidoc/pubapis_docs_as_code.html) |
-| GUTS | [spoke](https://www.atspoke.com/) |
+| GUTS | [spoke](https://www.atspoke.com/), [freshservice](https://freshservice.com/) |
+| MOMA | [glean](https://www.glean.com/) |
 
 ## PeopleOps / Culture
 | Google Internal                          | Real-World                               |
