@@ -111,7 +111,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | ---------------------------------------- | ---------------------------------------- |
 | software engineering at google [1](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf), [2](https://abseil.io/resources/swe-book) | [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791) |
 | [SRE @ google](https://sre.google/sre-book/table-of-contents/) | |
-| valentine                                | [Vault](https://www.vaultproject.io/), [1Password](https://support.1password.com/create-share-vaults/), [Lastpass](http://lastpass.com), [pass](https://www.passwordstore.org/) |
+| valentine                                | [Vault](https://www.vaultproject.io/), [1Password](https://support.1password.com/create-share-vaults/), [Lastpass](http://lastpass.com), [pass](https://www.passwordstore.org/), [keeper](https://www.keepersecurity.com/) |
 | OWNERS files in repo                     | [github CODEOWNERS](https://github.com/blog/2392-introducing-code-owners) |
 | snippets                                 | [Khan/snippets](https://github.com/Khan/snippets) |
 | SnipIt                                   | [recordit](http://recordit.co/), [CloudApp](https://www.getcloudapp.com/), [dropbox screenshots](https://help.dropbox.com/installs-integrations/photos/screenshots), [Snippyly](https://snippyly.com/) |
