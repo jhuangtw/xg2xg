@@ -61,7 +61,6 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | [MillWheel](https://ai.google/research/pubs/pub41378) | [Cloud Dataflow](https://cloud.google.com/dataflow/) | [Apache Flink](https://flink.apache.org/), beam |                |
 | Colab | [Colaboratory](https://colab.research.google.com/) | [Jupyter](https://jupyter.org) | [Observable](https://observablehq.com/) |
 | PLX | [Google Data Studio](https://datastudio.google.com/) | | [Mode](https://mode.com) |
-| Monarch | [paper](https://research.google/pubs/pub50652/) | | |
 | Napa | [paper](https://research.google/pubs/pub50617/) | | |
 
 
@@ -82,7 +81,9 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | Sisyphus / Rapid                |                                          | [Spinnaker](https://www.spinnaker.io/), [lambdaCD](http://www.lambda.cd), screwdriver.cd, [CodeShip](https://codeship.com), [shipit-engine](https://github.com/Shopify/shipit-engine), [GoCD](https://www.gocd.org), [AWS CodeDeploy](https://aws.amazon.com/codedeploy/), [Capistrano](http://www.capistranorb.com), [Fabric](http://www.fabfile.org), [ConcourseCI](https://concourse.ci/), [samson](https://github.com/zendesk/samson) |
 | MPM                             |                                          | [Docker](https://www.docker.com/) |
 | borg / borgcfg / gcl            | [Jsonnet](http://jsonnet.org/), [Cue](https://cuelang.org/) | [AWS Cloudformation](https://aws.amazon.com/cloudformation/), Puppet, Chef, Salt, Ansible, [Terraform](https://www.terraform.io), [kubecfg](https://github.com/bitnami/kubecfg), [pulumi](https://github.com/pulumi/pulumi), [Nix](https://nix.dev/) |
-| logging, analog                 | [StackDriver](https://cloud.google.com/stackdriver/) | [logstash](https://github.com/elastic/logstash), [fluentd](https://github.com/fluent/fluentd), [PaperTrail](https://www.papertrail.com/), [cernan](https://github.com/postmates/cernan), [loki](https://grafana.com/oss/loki/) |
+| logging, analog                 | [Cloud Logging](https://cloud.google.com/logging) | [logstash](https://github.com/elastic/logstash), [fluentd](https://github.com/fluent/fluentd), [PaperTrail](https://www.papertrail.com/), [cernan](https://github.com/postmates/cernan), [loki](https://grafana.com/oss/loki/) |
+| Monarch | [paper](https://research.google/pubs/pub50652/) | [Cloud Monitoring](https://cloud.google.com/monitoring) | [Chronosphere](https://chronosphere.io) |
+| [Dapper](https://ai.google/research/pubs/pub36356) | [Cloud trace](https://cloud.google.com/trace/) | [zipkin](https://github.com/openzipkin/zipkin), [OpenTelemetry](https://opentelemetry.io/), [Jaeger](https://www.jaegertracing.io/), [Lightstep](https://lightstep.com), [Honeycomb](https://www.honeycomb.io/trace/) |
 | CodeSearch, Grimoire            | [Zoekt](https://github.com/google/zoekt) [kythe](https://github.com/kythe/kythe) | [Sourcegraph](https://sourcegraph.com), [OpenGrok](https://github.com/OpenGrok/OpenGrok/), [livegrep](https://github.com/livegrep/livegrep) |
 | Critique, Gerrit, Mondrian etc. | [Gerrit](https://www.gerritcodereview.com/) | [Reviewable](https://reviewable.io) , [Phabricator](https://www.phacility.com/phabricator/)     |
 | cider                           |                                          | [Eclipse Che](https://www.eclipse.org/che/), [Cloud9](https://c9.io/), [gitpod.io](https://gitpod.io), [Coder](https://coder.com/), [Code-Server (VSCode in a Tab)](https://github.com/cdr/code-server), [DevZero](https://www.devzero.io/) |
@@ -92,7 +93,6 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | Copybara / MOE                  | [Copybara](https://github.com/google/copybara), [MOE](https://github.com/google/MOE)  |                                          |
 | workflow/dependency management | | [Luigi](https://github.com/spotify/luigi), [Airflow](https://github.com/apache/airflow), [digdag](https://github.com/treasure-data/digdag), [Pachyderm](https://github.com/pachyderm/pachyderm), [Dask](https://github.com/dask/dask) |
 | ErrorProne                      | [ErrorProne](https://errorprone.info/)   | [SpotBugs](https://spotbugs.github.io/), [FindBugs](http://findbugs.sourceforge.net/) |
-| [Dapper](https://ai.google/research/pubs/pub36356) | [stackdriver trace](https://cloud.google.com/trace/) | [zipkin](https://github.com/openzipkin/zipkin), [opentracing](https://opentracing.io/docs/overview/), [jaeger](https://www.jaegertracing.io/), [LightStep](https://lightstep.com), [Honeycomb](https://www.honeycomb.io/trace/) |
 | C++ Tips of the Week            | [Abseil C++ Tips of the Week](https://abseil.io/tips/) |  |
 | [DiRT](https://cloud.google.com/blog/products/management-tools/shrinking-the-time-to-mitigate-production-incidents) | | [ChaosMonkey](https://github.com/Netflix/chaosmonkey), [aws fis](https://aws.amazon.com/fis/) |
 | [Rosie](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext) | | [microplane](https://github.com/Clever/microplane), [silver-platter](https://github.com/jelmer/silver-platter) |
