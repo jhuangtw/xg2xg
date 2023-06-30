@@ -25,9 +25,9 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | Google Internal      | Google External                          | Open Source / Real-World                 |
 | -------------------- | ---------------------------------------- | ---------------------------------------- |
 | Borg                 | [Kubernetes](https://kubernetes.io/)     | [Apache Mesos](https://github.com/apache/mesos), [Apache Aurora](http://aurora.apache.org/), [HashiCorp Nomad](https://github.com/hashicorp/nomad) |
-| GSLB | [Cloud Load Balancing](https://cloud.google.com/load-balancing) - Internal | AWS ELB,  [Istio](https://istio.io/), [envoy](https://github.com/lyft/envoy), [linkerd](https://linkerd.io/)
+| GSLB | [Cloud Load Balancing](https://cloud.google.com/load-balancing) - Internal | AWS ELB,  [Istio](https://istio.io/), [linkerd](https://linkerd.io/)
 | OnePlatform          | [API Gateway](https://cloud.google.com/api-gateway) | [Swagger](https://swagger.io/) |
-| GFE, Maglev, uberproxy | [Cloud Load Balancing](https://cloud.google.com/load-balancing) - HTTPS / External | AWS ALB, [HAProxy](http://www.haproxy.org/), [nginx](https://www.nginx.com/), [F5](https://f5.com/products/big-ip) |
+| GFE, Maglev, uberproxy | [Cloud Load Balancing](https://cloud.google.com/load-balancing) - HTTPS / External | [envoy](https://www.envoyproxy.io/), AWS ALB, [HAProxy](http://www.haproxy.org/), [nginx](https://www.nginx.com/), [F5](https://f5.com/products/big-ip) |
 | uberproxy (sso proxy) | [Identity-Aware Proxy](https://cloud.google.com/iap) | [buzzfeed-sso](https://github.com/buzzfeed/sso), [Pomerium](https://pomerium.io/) |
 | Zanzibar             | [Zanzibar Research Paper](https://research.google/pubs/pub48190/) | [SpiceDB](https://github.com/authzed/spicedb)/[authzed](https://authzed.com/), [Ory Keto](https://www.ory.sh/keto/docs/), [topaz](https://github.com/aserto-dev/topaz), [Opal](https://opal.dev/), [(iam)Keycloak](https://www.keycloak.org/) |
 | data center hardware | [open compute](http://www.opencompute.org/) |                                          |
