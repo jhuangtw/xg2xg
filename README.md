@@ -99,6 +99,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | API Improvements Proposals | [AIP](https://google.aip.dev/) | |
 | g4 {fix, submit} | | [Trunk.io](https://trunk.io) |
 | probers | | [cloudprober](https://github.com/cloudprober/cloudprober) |
+| GWP | [paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36575.pdf) | [Parca](https://www.parca.dev) |
 
 ### Security
 | Google Internal                  | Google External | Open Source                              |
