@@ -63,6 +63,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | PLX | [Google Data Studio](https://datastudio.google.com/) | | [Mode](https://mode.com) |
 | Monarch | [paper](https://research.google/pubs/pub50652/) | | |
 | Napa | [paper](https://research.google/pubs/pub50617/) | | |
+| MakerSuite| [MakerSuite](https://makersuite.google.com) | | |
 
 
 ### DevOps
