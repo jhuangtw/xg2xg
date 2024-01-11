@@ -116,7 +116,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | snippets                                 | [Khan/snippets](https://github.com/Khan/snippets) |
 | SnipIt                                   | [recordit](http://recordit.co/), [CloudApp](https://www.getcloudapp.com/), [dropbox screenshots](https://help.dropbox.com/installs-integrations/photos/screenshots), [Snippyly](https://snippyly.com/) |
 | stuff (SaaS IT management)               | [productiv](https://productiv.com/), [intello](https://www.intello.io/), [zylo](https://zylo.com/) |
-| stuff (Device Management)                | [Fleetsmith](https://www.fleetsmith.com/), [jamf](https://www.jamf.com/) |
+| stuff (Device Management)                | [jamf](https://www.jamf.com/) |
 | device security monitoring               | [Red Canary](https://redcanary.com/) |
 | beyondcorp | [beyondcorp](https://www.beyondcorp.com/) |
 | [go/ links](https://medium.com/@golinks/the-full-history-of-go-links-and-the-golink-system-cbc6d2c8bb3)                                | [golinks](https://www.golinks.io/), [go](https://github.com/kellegous/go), [Goat](https://goatcodes.com/), [trotto](https://github.com/trotto/go-links), [go-shorten](https://github.com/thomasdesr/go-shorten) |
