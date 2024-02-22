@@ -112,6 +112,8 @@
 - https://www.split.io/
 - https://github.com/checkr/flagr
 
+### Authorization
+- https://www.osohq.com/
 ### Catalogue / metadata
 - https://github.com/airbnb/knowledge-repo
 - https://github.com/lyft/amundsen
