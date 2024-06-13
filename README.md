@@ -139,7 +139,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | perks | [fond](https://fond.co) |
 | talks | [Talks @ Google](https://www.youtube.com/c/talksatgoogle/videos) |
 | dory | [slido](https://www.sli.do/) |
-| edge, people ops training                | [LifeLabs](https://lifelabsnewyork.com/)  |
+| edge, people ops training                | [LifeLabs](https://www.lifelabslearning.com/)  |
 | googlegeist                              | [Culture Amp](https://www.cultureamp.com/), [humu](https://www.humu.com/), [tinypulse](https://www.tinypulse.com/), [peakon](https://peakon.com/) |
 | Meng                                     | [Search Inside Yourself](https://www.amazon.com/Search-Inside-Yourself-Unexpected-Achieving/dp/0062116932) |
 | Lazlo                                    | [Work Rules](https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554790/) |
