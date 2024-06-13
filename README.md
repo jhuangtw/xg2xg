@@ -29,7 +29,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | OnePlatform          | [API Gateway](https://cloud.google.com/api-gateway) | [Swagger](https://swagger.io/) |
 | GFE, Maglev, uberproxy | [Cloud Load Balancing](https://cloud.google.com/load-balancing) - HTTPS / External | [envoy](https://www.envoyproxy.io/), AWS ALB, [HAProxy](https://www.haproxy.org/), [nginx](https://www.nginx.com/), [F5](https://f5.com/products/big-ip) |
 | uberproxy (sso proxy) | [Identity-Aware Proxy](https://cloud.google.com/iap) | [buzzfeed-sso](https://github.com/buzzfeed/sso), [Pomerium](https://pomerium.io/) |
-| Zanzibar             | [Zanzibar Research Paper](https://research.google/pubs/pub48190/) | [SpiceDB](https://github.com/authzed/spicedb)/[authzed](https://authzed.com/), [Ory Keto](https://www.ory.sh/keto/docs/), [topaz](https://github.com/aserto-dev/topaz), [Opal](https://opal.dev/), [(iam)Keycloak](https://www.keycloak.org/) |
+| Zanzibar             | [Zanzibar Research Paper](https://research.google/pubs/pub48190/) | [SpiceDB](https://github.com/authzed/spicedb)/[authzed](https://authzed.com/), [Ory Keto](https://www.ory.sh/keto/docs/), [topaz](https://github.com/aserto-dev/topaz), [Opal](https://opal.dev/), [(iam)Keycloak](https://www.keycloak.org/), [Warrant](https://github.com/warrant-dev/warrant) |
 | data center hardware | [open compute](https://www.opencompute.org/) |                                          |
 | Jupiter, Starblaze   |                                          |                                             |
 | B4, Stargate, TE     |                                          |                                             |
