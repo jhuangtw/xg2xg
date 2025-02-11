@@ -13,7 +13,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | Google Internal | Google External                          | Open Source / Real-World                 |
 | --------------- | ---------------------------------------- | ---------------------------------------- |
 | MapReduce       |                                          | [Apache Hadoop](https://github.com/apache/hadoop), [Spark](https://github.com/apache/spark) |
-| [Flume](https://ai.google/research/pubs/pub35650)   | [DataFlow](https://cloud.google.com/dataflow)  | [Apache Beam](https://beam.apache.org/) |
+| [Flume](https://research.google/pubs/flumejava-easy-efficient-data-parallel-pipelines/)   | [DataFlow](https://cloud.google.com/dataflow)  | [Apache Beam](https://beam.apache.org/) |
 | Protocol Buffer | [Protobuf](https://github.com/google/protobuf), [FlatBuffers](https://google.github.io/flatbuffers/) | [Cap'n Proto](https://capnproto.org/), [Thrift](https://github.com/apache/thrift), [Avro](https://github.com/apache/avro), [Amazon Ion](https://amzn.github.io/ion-docs/), [CBOR](https://cbor.io/), [kryo](https://github.com/EsotericSoftware/kryo) |
 | Stubby          | [gRPC](https://github.com/grpc/grpc)     | [Thrift](https://github.com/apache/thrift), [Bolt](https://boltprotocol.org/) |
 | Chubby          |                                          | [Apache Zookeeper](https://github.com/apache/zookeeper), [etcd](https://github.com/coreos/etcd), [HashiCorp Consul](https://github.com/hashicorp/consul) |
