@@ -31,9 +31,9 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | uberproxy (sso proxy) | [Identity-Aware Proxy](https://cloud.google.com/iap) | [buzzfeed-sso](https://github.com/buzzfeed/sso), [Pomerium](https://pomerium.io/), [Envoy Gateway](https://gateway.envoyproxy.io/docs/tasks/security/oidc/) |
 | Zanzibar             | [Zanzibar Research Paper](https://research.google/pubs/pub48190/) | [SpiceDB](https://github.com/authzed/spicedb)/[authzed](https://authzed.com/), [Ory Keto](https://www.ory.sh/keto/docs/), [topaz](https://github.com/aserto-dev/topaz), [Opal](https://opal.dev/), [(iam)Keycloak](https://www.keycloak.org/), [Warrant](https://github.com/warrant-dev/warrant), [OpenFGA](https://openfga.dev/) |
 | data center hardware | [open compute](https://www.opencompute.org/) |                                          |
-| Jupiter, Starblaze   |                                          |                                             |
-| B4, Stargate, TE     |                                          |                                             |
-| USPS, Andromeda      |                                          |                                             |
+| Jupiter, Starblaze   | [Mission Apollo: Landing Optical Circuit Switching at Datacenter Scale](https://arxiv.org/pdf/2208.10041)                                         |                                             |
+| B4, Stargate, TE     | [B4: Experience with a Globally-Deployed Software Defined WAN](https://dl.acm.org/doi/10.1145/2534169.2486019)                                         |                                             |
+| USPS, Andromeda      | [Snap: a Microkernel Approach to Host Networking](https://research.google/pubs/snap-a-microkernel-approach-to-host-networking/)                                          |                                             |
 | ESDN                 |                                          | [Faucet](https://github.com/faucetsdn/faucet)
 | [broccoli man](https://www.youtube.com/watch?v=3t6L-FlfeaI)  | ||
 
