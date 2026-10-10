@@ -116,7 +116,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | valentine                                | [Vault](https://www.vaultproject.io/), [1Password](https://support.1password.com/create-share-vaults/), [Lastpass](https://lastpass.com), [pass](https://www.passwordstore.org/), [keeper](https://www.keepersecurity.com/) |
 | OWNERS files in repo                     | [github CODEOWNERS](https://github.com/blog/2392-introducing-code-owners) |
 | snippets                                 | [Khan/snippets](https://github.com/Khan/snippets) |
-| SnipIt                                   | [recordit](https://recordit.co/), [CloudApp](https://www.getcloudapp.com/), [dropbox screenshots](https://help.dropbox.com/installs-integrations/photos/screenshots), [Snippyly](https://snippyly.com/) |
+| SnipIt                                   | [Screenshotter](https://www.screenshotter.org), [recordit](https://recordit.co/), [CloudApp](https://www.getcloudapp.com/), [dropbox screenshots](https://help.dropbox.com/installs-integrations/photos/screenshots), [Snippyly](https://snippyly.com/) |
 | gpaste                                   | [pastee](https://paste.ee/), [pastebin](https://pastebin.com/) |
 | stuff (SaaS IT management)               | [productiv](https://productiv.com/), [intello](https://www.intello.io/), [zylo](https://zylo.com/) |
 | stuff (Device Management)                | [jamf](https://www.jamf.com/) |
